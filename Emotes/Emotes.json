@@ -1,0 +1,3098 @@
+[
+  {
+    "EID": "EID_AshtonBoardwalk",
+    "DisplayName": "Widow’s Pirouette",
+    "ShortDescription": "Emote",
+    "Description": "A deadly dance.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.AshtonBoardwalk"
+    ]
+  },
+  {
+    "EID": "EID_BlackMondayFemale_6HO4L",
+    "DisplayName": "Whipcrack",
+    "ShortDescription": "Emote",
+    "Description": "Whip up some action. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ElectrodeDefect"
+    ]
+  },
+  {
+    "EID": "EID_BurgerFlipping",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Sizzlin'",
+    "ShortDescription": "Emote",
+    "Description": "Flip with flavor. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "phoebe.cosmetic.EID_BurgerFlipping"
+    ]
+  },
+  {
+    "EID": "EID_Chug",
+    "DisplayName": "Go! Go! Go!",
+    "ShortDescription": "Emote",
+    "Description": "You can do it!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_CrissCross",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Criss Cross",
+    "ShortDescription": "Emote",
+    "Description": "Get your point across.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_DJ01",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Drop The Bass",
+    "ShortDescription": "Emote",
+    "Description": "Wait for it...",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ElectroShuffle",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Electro Shuffle",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_FancyFeet",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Fancy Feet",
+    "ShortDescription": "Emote",
+    "Description": "Show off that footwork.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Floppy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Fandangle",
+    "ShortDescription": "Emote",
+    "Description": "Loosen up and prepare for nonsense.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season8.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_HandSignals",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Hand Signals",
+    "ShortDescription": "Emote",
+    "Description": "All signals go?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_HiFive_Sync",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "High Five",
+    "ShortDescription": "Emote",
+    "Description": "Up Top.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season11.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_Hopper",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Bouncer",
+    "ShortDescription": "Emote",
+    "Description": "Hop on. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_Intensity",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Intensity",
+    "ShortDescription": "Emote",
+    "Description": "Dance like you mean it.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_InfiniteDab",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Infinite Dab",
+    "ShortDescription": "Emote",
+    "Description": "Can't stop, won't stop.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_IndianDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Lavish",
+    "ShortDescription": "Emote",
+    "Description": "Join in the celebration. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Juggler",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Jugglin'",
+    "ShortDescription": "Emote",
+    "Description": "Pure concentration.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_KPopDance03",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Scenario",
+    "ShortDescription": "Emote",
+    "Description": "Make it happen.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Promo",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.KpopFashion"
+    ]
+  },
+  {
+    "EID": "EID_LockItUp",
+    "DisplayName": "Lock It Up",
+    "ShortDescription": "Emote",
+    "Description": "Snap into place.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_MicDrop",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Mic Drop",
+    "ShortDescription": "Emote",
+    "Description": "We're done here.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season7.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_OnTheHook",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "On The Hook",
+    "ShortDescription": "Emote",
+    "Description": "Reel in a prize catch.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Pump",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Pumpernickel",
+    "ShortDescription": "Emote",
+    "Description": "Get pumped.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_RideThePonyTwo",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Pony Up",
+    "ShortDescription": "Emote",
+    "Description": "Yeehaw!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Granted.MakeGood",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_Saxophone",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Phone It In",
+    "ShortDescription": "Emote",
+    "Description": "Lay down a saxy groove.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SignSpinner",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Sign Spinner",
+    "ShortDescription": "Emote",
+    "Description": "In it to spin it. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.QuestsMetaData.Glyph.Emote.SignSpinner"
+    ]
+  },
+  {
+    "EID": "EID_Sprinkler",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Sprinkler",
+    "ShortDescription": "Emote",
+    "Description": "Sprinkled with style.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TakeTheL",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Take The L",
+    "ShortDescription": "Emote",
+    "Description": "Savor the W.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season3.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_TimeOut",
+    "DisplayName": "Time Out",
+    "ShortDescription": "Emote",
+    "Description": "Stop the clock.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_UkuleleTime",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Island Vibes",
+    "ShortDescription": "Emote",
+    "Description": "Strum a happy little tune. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_WIR",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Hot Marat",
+    "ShortDescription": "Emote",
+    "Description": "Wreck the dance floor.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Promo"
+    ]
+  },
+  {
+    "EID": "EID_Zombie",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Reanimated",
+    "ShortDescription": "Emote",
+    "Description": "From beyond the rave!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Zippy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Rambunctious",
+    "ShortDescription": "Emote",
+    "Description": "The embodiment of boundless energy.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_YoureAwesome",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "You're Awesome",
+    "ShortDescription": "Emote",
+    "Description": "Seriously. We all think so.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season5.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_YouBoreMe",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Snoozefest",
+    "ShortDescription": "Emote",
+    "Description": "Yawn.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season8.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_Yeet",
+    "DisplayName": "Dip",
+    "ShortDescription": "Emote",
+    "Description": "Take a dip."
+  },
+  {
+    "EID": "EID_YayExcited",
+    "DisplayName": "Yay! ",
+    "ShortDescription": "Emote",
+    "Description": "So excited!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season9.BattlePass.Free",
+      "Cosmetics.QuestsMetaData.Glyph.Emote.YayExcited"
+    ]
+  },
+  {
+    "EID": "EID_WristFlick",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Shimmer",
+    "ShortDescription": "Emote",
+    "Description": "Bordering on excessive levels of sass.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season7.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_Worm",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "The Worm",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season2.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_WolfHowl",
+    "DisplayName": "Howl",
+    "ShortDescription": "Emote",
+    "Description": "Stand in front of a moon for maximum effect.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Wizard",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Llamacadabra",
+    "ShortDescription": "Emote",
+    "Description": "Don't forget the magic word.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_WindmillFloss",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Windmill Floss",
+    "ShortDescription": "Emote",
+    "Description": "Take it all the way around.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "phoebe.cosmetic.EID_WindmillFloss"
+    ]
+  },
+  {
+    "EID": "EID_Wiggle",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Wiggle",
+    "ShortDescription": "Emote",
+    "Description": "Never stop wigglin'.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Whirlwind",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Whirlwind",
+    "ShortDescription": "Emote",
+    "Description": "Around and around abound.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_WhereIsMatt",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Where Is Matt?",
+    "ShortDescription": "Emote",
+    "Description": "Show the world your moves.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_WaveDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Flux",
+    "ShortDescription": "Emote",
+    "Description": "Stay in the flow.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Wave",
+    "DisplayName": "Wave",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season2.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_Warehouse",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Dance Therapy",
+    "ShortDescription": "Emote",
+    "Description": "Let it all out.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_WackyWavy",
+    "DisplayName": "Breezy",
+    "ShortDescription": "Emote",
+    "Description": "Any way the wind blows.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WavyMan"
+    ]
+  },
+  {
+    "EID": "EID_VikingHorn",
+    "DisplayName": "Battle Call",
+    "ShortDescription": "Emote",
+    "Description": "Heed the call.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Twist",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Twist",
+    "ShortDescription": "Emote",
+    "Description": "It's all in the hips.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TrueLove",
+    "DisplayName": "True Love",
+    "ShortDescription": "Emote",
+    "Description": "Get Romantic.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RoyaleHearts"
+    ]
+  },
+  {
+    "EID": "EID_TrophyCelebration",
+    "DisplayName": "Kiss The Cup",
+    "ShortDescription": "Emote",
+    "Description": "Relish your victories.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TreadmillDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Stride",
+    "ShortDescription": "Emote",
+    "Description": "Find a groove, and hit your stride.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season10.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_TPose",
+    "DisplayName": "T-Pose",
+    "ShortDescription": "Emote",
+    "Description": "Chin up, arms straight!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Touchdown",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Spike It",
+    "ShortDescription": "Emote",
+    "Description": "Celebrate a big play.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TorchSnuffer",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Tsssss",
+    "ShortDescription": "Emote",
+    "Description": "Your time here is done. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TimetravelBackflip",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Spring-Loaded",
+    "ShortDescription": "Emote",
+    "Description": "Handspring into action.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Tidy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Tidy",
+    "ShortDescription": "Emote",
+    "Description": "Keep it tidy."
+  },
+  {
+    "EID": "EID_ThumbsUp",
+    "DisplayName": "Thumbs Up",
+    "ShortDescription": "Emote",
+    "Description": "Aye!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ThumbsDown",
+    "DisplayName": "Thumbs Down",
+    "ShortDescription": "Emote",
+    "Description": "Nah.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ThighSlapper",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Slap Happy",
+    "ShortDescription": "Emote",
+    "Description": "Stop hitting yourself.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Texting",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Busy",
+    "ShortDescription": "Emote",
+    "Description": "I'll be with you in just a moment.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TeamRobot",
+    "DisplayName": "Team Mech",
+    "ShortDescription": "Emote",
+    "Description": "Mecha Team Leader Forever!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.TeamShowdown"
+    ]
+  },
+  {
+    "EID": "EID_TeamMonster",
+    "DisplayName": "Team Monster",
+    "ShortDescription": "Emote",
+    "Description": "You monster!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.TeamShowdown"
+    ]
+  },
+  {
+    "EID": "EID_TapShuffle",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Hootenanny",
+    "ShortDescription": "Emote",
+    "Description": "Yee haw!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TakeTheW",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Savor The W",
+    "ShortDescription": "Emote",
+    "Description": "This is what winning looks like.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TakeTheElf",
+    "DisplayName": "Take The Elf",
+    "ShortDescription": "Emote",
+    "Description": "Break out the mistletoe.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Event.14DaysOfFortnite"
+    ]
+  },
+  {
+    "EID": "EID_TaiChi",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Tai Chi",
+    "ShortDescription": "Emote",
+    "Description": "Find your balance.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_TacoTimeDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Taco Time",
+    "ShortDescription": "Emote",
+    "Description": "Set your tacos free. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ScoreCard"
+    ]
+  },
+  {
+    "EID": "EID_SwipeIt",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Swipe It",
+    "ShortDescription": "Emote",
+    "Description": "Swipe it over and over again.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season5.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_SwingDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Jitterbug",
+    "ShortDescription": "Emote",
+    "Description": "We're buggin' out!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SwimDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Deep End",
+    "ShortDescription": "Emote",
+    "Description": "Dive in.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SuckerPunch",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Turbocharged",
+    "ShortDescription": "Built-in Emote",
+    "Description": "Wind up and let em have it.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.TeamShowdown",
+      "Cosmetics.UserFacingFlags.BuiltInEmote"
+    ]
+  },
+  {
+    "EID": "EID_StrawberryPilotKpop",
+    "DisplayName": "Peace Out",
+    "ShortDescription": "Emote",
+    "Description": "Keep It Positive.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.Set.StrawberryPilot"
+    ]
+  },
+  {
+    "EID": "EID_StatuePose",
+    "DisplayName": "Statuesque",
+    "ShortDescription": "Emote",
+    "Description": "So lifelike!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_StageBow",
+    "DisplayName": "Gentleman's Dab",
+    "ShortDescription": "Emote",
+    "Description": "Salutations good sir!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season5.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_SquishyMedley",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Keep It Mello",
+    "ShortDescription": "Emote",
+    "Description": "Join in the fun.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Event.Festivus",
+      "Cosmetics.Set.Squishy",
+      "Cosmetics.QuestsMetaData.Festivus.MellowMedly"
+    ]
+  },
+  {
+    "EID": "EID_SquishyDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Marsh Walk",
+    "ShortDescription": "Emote",
+    "Description": "Keep it mello.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Squishy"
+    ]
+  },
+  {
+    "EID": "EID_Spyglass",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Spyglass",
+    "ShortDescription": "Emote",
+    "Description": "Land ho!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SpeedRun",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Full Tilt",
+    "ShortDescription": "Emote",
+    "Description": "Lean into it.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_Sparkler",
+    "DisplayName": "Sparkler",
+    "ShortDescription": "Emote",
+    "Description": "So sparkly!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SomethingStinks",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Something Stinks",
+    "ShortDescription": "Emote",
+    "Description": "Whoever smelt it...",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SoccerJuggling",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Kick Ups",
+    "ShortDescription": "Emote",
+    "Description": "Look, no hands.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SneakingTraversal",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Very Sneaky",
+    "ShortDescription": "Emote",
+    "Description": "Stealth mode engaged!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal",
+      "phoebe.cosmetic.EID_SneakingTraversal"
+    ]
+  },
+  {
+    "EID": "EID_Snap",
+    "DisplayName": "Snap",
+    "ShortDescription": "Emote",
+    "Description": "Make it snappy.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SmokeBombFail",
+    "DisplayName": "Poof",
+    "ShortDescription": "Emote",
+    "Description": "Beguile your enemies in a cloud smoke. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SlowClap",
+    "DisplayName": "Slow Clap",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Showstopper",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Showstopper",
+    "ShortDescription": "Emote",
+    "Description": "Pull out all the stops.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Shiny",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Fierce",
+    "ShortDescription": "Emote",
+    "Description": "Utterly dominated.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season8.BattlePass.Paid",
+      "Cosmetics.Set.Shiny"
+    ]
+  },
+  {
+    "EID": "EID_Shinobi",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Dragon Stance",
+    "ShortDescription": "Emote",
+    "Description": "Form of the dragon.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season8.BattlePass.Paid",
+      "Cosmetics.Set.DragonNinja"
+    ]
+  },
+  {
+    "EID": "EID_Shaolin",
+    "DisplayName": "Shaolin Sit-up",
+    "ShortDescription": "Emote",
+    "Description": "Mind over body.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Shaka",
+    "DisplayName": "Hang Loose",
+    "ShortDescription": "Emote",
+    "Description": "Take it easy. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Shadowboxing",
+    "DisplayName": "Shadow Boxer",
+    "ShortDescription": "Emote",
+    "Description": "Stick and move.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SexyFlip",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Flippin' Sexy",
+    "ShortDescription": "Emote",
+    "Description": "Flip out!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_SecurityGuard",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Work It",
+    "ShortDescription": "Emote",
+    "Description": "Split the dancefloor. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ScorecardTomato",
+    "DisplayName": "Team Tomato",
+    "ShortDescription": "Emote",
+    "Description": "Stay saucy. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ScoreCard"
+    ]
+  },
+  {
+    "EID": "EID_ScoreCardBurger",
+    "DisplayName": "Team Burger",
+    "ShortDescription": "Emote",
+    "Description": "Be beefy. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ScoreCard"
+    ]
+  },
+  {
+    "EID": "EID_ScoreCard",
+    "DisplayName": "Scorecard",
+    "ShortDescription": "Emote",
+    "Description": "Consider yourself judged.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Salute",
+    "DisplayName": "Salute",
+    "ShortDescription": "Emote",
+    "Description": "At ease!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season3.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_SadTrombone",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Sad Trombone",
+    "ShortDescription": "Emote",
+    "Description": "Womp womp.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season9.BattlePass.Free",
+      "Cosmetics.QuestsMetaData.Glyph.Emote.SadTrombone"
+    ]
+  },
+  {
+    "EID": "EID_RunningManv3",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Pick It Up",
+    "ShortDescription": "Emote",
+    "Description": "Pick it up, pick it up, pick it up!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_RunningMan",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Running Man",
+    "ShortDescription": "Emote",
+    "Description": "The challenge is to never stop running.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season6.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_RoosterMech",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Jump Jets",
+    "ShortDescription": "Emote",
+    "Description": "Lift with your legs.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.Set.Rooster"
+    ]
+  },
+  {
+    "EID": "EID_RockPaperScissors",
+    "DisplayName": "Rock Paper Scissors",
+    "ShortDescription": "Emote",
+    "Description": "Best out of three.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_RockGuitar",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Rock Out",
+    "ShortDescription": "Emote",
+    "Description": "Are you ready to rock?!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Volume11"
+    ]
+  },
+  {
+    "EID": "EID_RocketRodeo",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Rocket Rodeo",
+    "ShortDescription": "Emote",
+    "Description": "Hang on tight!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Robot",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "The Robot",
+    "ShortDescription": "Emote",
+    "Description": "Execute dance sequence.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season3.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_RideThePony_Athena",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Ride The Pony",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season2.BattlePass.Free",
+      "Cosmetics.Source.Granted.Founders",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_RespectThePeace",
+    "DisplayName": "Respect The Peace",
+    "ShortDescription": "Emote",
+    "Description": "Show some respect. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season11.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_RegalWave",
+    "DisplayName": "Regal Wave",
+    "ShortDescription": "Emote",
+    "Description": "Greetings royale.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season6.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_RedCard",
+    "DisplayName": "Red Card",
+    "ShortDescription": "Emote",
+    "Description": "Foul play!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_RageQuit",
+    "DisplayName": "Rage Quit",
+    "ShortDescription": "Emote",
+    "Description": "I'm out. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_QuickSweeper",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Jamboree",
+    "ShortDescription": "Emote",
+    "Description": "Celebrate anything and everything.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_PureSalt",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Pure Salt",
+    "ShortDescription": "Emote",
+    "Description": "All-purpose seasoning.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ProVisitorProtest",
+    "DisplayName": "Welcome!",
+    "ShortDescription": "Emote",
+    "Description": "Show us the way!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_PresentOpening",
+    "DisplayName": "Unwrapped",
+    "ShortDescription": "Emote",
+    "Description": "What did you get me?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_PraiseTheTomato",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Praise The Tomato",
+    "ShortDescription": "Emote",
+    "Description": "Splatter unto thee."
+  },
+  {
+    "EID": "EID_PraiseStorm",
+    "DisplayName": "Storm Salutation",
+    "ShortDescription": "Emote",
+    "Description": "Respect the storm."
+  },
+  {
+    "EID": "EID_PopLock",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Pop Lock",
+    "ShortDescription": "Emote",
+    "Description": "Lock it down.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_PopDance01",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Star Power",
+    "ShortDescription": "Emote",
+    "Description": "No autographs please.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Popcorn",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Popcorn",
+    "ShortDescription": "Emote",
+    "Description": "This is gettin' good.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season4.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_PogoTraversal",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Boing!",
+    "ShortDescription": "Emote",
+    "Description": "Put a little spring in your step. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.UserFacingFlags.Emote.Traversal",
+      "Cosmetics.Source.Season11.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_Pizzatime",
+    "DisplayName": "Pizza Party ",
+    "ShortDescription": "Emote",
+    "Description": "Delicious. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.PizzaPit"
+    ]
+  },
+  {
+    "EID": "EID_PirateGold",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Boobytrapped",
+    "ShortDescription": "Emote",
+    "Description": "The sea delivers.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Event.PirateParty"
+    ]
+  },
+  {
+    "EID": "EID_OstrichSpin",
+    "Rarity": "EFortRarity::Common",
+    "DisplayName": "B.R.U.T.A.L. Dab",
+    "ShortDescription": "Emote",
+    "Description": "Mecha flex on 'em.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Contextual.InGame.Vehicle.Ostrich"
+    ]
+  },
+  {
+    "EID": "EID_OneArmFloss",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "No Sweat",
+    "ShortDescription": "Emote",
+    "Description": "With one hand tied behind your back.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Set.TeamShowdown",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_OG_RunningMan",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Old School ",
+    "ShortDescription": "Emote",
+    "Description": "Never out of style. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Octopus",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Slitherin'",
+    "ShortDescription": "Emote",
+    "Description": "Undeniably hypnotic.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season6.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_NotToday",
+    "DisplayName": "Finger Wag",
+    "ShortDescription": "Emote",
+    "Description": "Not today, my friend.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_NeedToGo",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "It's Go Time!",
+    "ShortDescription": "Emote",
+    "Description": "It's now or right now!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season6.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_MyIdol",
+    "DisplayName": "My Idol!",
+    "ShortDescription": "Emote",
+    "Description": "...in the presence of a legend.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Moonwalking",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Moon Bounce",
+    "ShortDescription": "Emote",
+    "Description": "Gravity can't hold you down. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_MindBlown",
+    "DisplayName": "Mind Blown",
+    "ShortDescription": "Emote",
+    "Description": "Rethink everything you know.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Mime",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Mime Time",
+    "ShortDescription": "Emote",
+    "Description": "Please take me seriously!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "phoebe.cosmetic.EID_Mime"
+    ]
+  },
+  {
+    "EID": "EID_MechPeely",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Peely Pulse",
+    "ShortDescription": "Emote",
+    "Description": "Blend in to your surroundings.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BunkerMan"
+    ]
+  },
+  {
+    "EID": "EID_MartialArts",
+    "DisplayName": "Punched Up",
+    "ShortDescription": "Emote",
+    "Description": "Show off your form.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Maracas",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Shake It Up",
+    "ShortDescription": "Emote",
+    "Description": "Feel the rhythm.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_MakeItRainV2",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Raining Doubloons",
+    "ShortDescription": "Emote",
+    "Description": "Make it rain gold.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_MakeItRain",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Make It Rain",
+    "ShortDescription": "Emote",
+    "Description": "Better grab an umbrella!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_MakeItPlantain",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Make It Plantain",
+    "ShortDescription": "Emote",
+    "Description": "It's bananas. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_LookAtThis",
+    "DisplayName": "Behold!",
+    "ShortDescription": "Emote",
+    "Description": "Look at this!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_LlamaRider_Glitter",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Glitter-up",
+    "ShortDescription": "Emote",
+    "Description": "What a sparkly mess!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season6.BattlePass.Paid",
+      "phoebe.cosmetic.EID_LlamaRider_Glitter"
+    ]
+  },
+  {
+    "EID": "EID_LlamaMarch",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Llama Conga",
+    "ShortDescription": "Emote",
+    "Description": "Trot on. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_LlamaBell",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Llama Bell",
+    "ShortDescription": "Emote",
+    "Description": "Clang! Clang! Clang! Clang!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_LivingLarge",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Living Large",
+    "ShortDescription": "Emote",
+    "Description": "Life is good.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_LazyShuffle",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Lazy Shuffle",
+    "ShortDescription": "Emote",
+    "Description": "Keep it lazy.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Laugh",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Laugh It Up",
+    "ShortDescription": "Emote",
+    "Description": "What's so funny?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_LasagnaFlex",
+    "DisplayName": "Lazer Flex",
+    "ShortDescription": "Emote",
+    "Description": "Armed and dangerous.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Lasagna",
+      "Cosmetics.UserFacingFlags.BuiltInEmote"
+    ]
+  },
+  {
+    "EID": "EID_LasagnaDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Lazer Blast",
+    "ShortDescription": "Emote",
+    "Description": "Major moves.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Lasagna"
+    ]
+  },
+  {
+    "EID": "EID_KungFuShadowBoxing",
+    "ShortDescription": "Emote",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_KungFuSalute",
+    "DisplayName": "Respect",
+    "ShortDescription": "Emote",
+    "Description": "For worthy combatants.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season4.BattlePass.Free",
+      "phoebe.cosmetic.EID_KungFuSalute"
+    ]
+  },
+  {
+    "EID": "EID_KpopDance04",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Glitter",
+    "ShortDescription": "Emote",
+    "Description": "Show your sparkle. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_KPopDance02",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Smooth Moves",
+    "ShortDescription": "Emote",
+    "Description": "Make them swoon.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_KPopDance01",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "True Heart",
+    "ShortDescription": "Emote",
+    "Description": "<3",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Kittycat",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Cat Flip",
+    "ShortDescription": "Emote",
+    "Description": "Show your catlike reflexes.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season7.BattlePass.Paid",
+      "Cosmetics.Set.NeonCat"
+    ]
+  },
+  {
+    "EID": "EID_KissKiss",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Kiss Kiss",
+    "ShortDescription": "Emote",
+    "Description": "Show some love.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RoyaleHearts"
+    ]
+  },
+  {
+    "EID": "EID_KEagle",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Eagle",
+    "ShortDescription": "Emote",
+    "Description": "Believe you can fly.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_JumpingJack",
+    "DisplayName": "Jumping Jacks",
+    "ShortDescription": "Emote",
+    "Description": "Get jacked!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_JazzHands",
+    "DisplayName": "Jazz Hands",
+    "ShortDescription": "Emote",
+    "Description": "Get jazzy.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_JazzDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Slick",
+    "ShortDescription": "Emote",
+    "Description": "Makin' it look easy.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Jaywalking",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Jaywalking",
+    "ShortDescription": "Emote",
+    "Description": "Don't just walk the line.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season10.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_Jammin",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Clean Groove",
+    "ShortDescription": "Emote",
+    "Description": "Dust off your best moves.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_IrishJig",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Step It Up",
+    "ShortDescription": "Emote",
+    "Description": "Do a little jig.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_IDontKnow",
+    "DisplayName": "IDK",
+    "ShortDescription": "Emote",
+    "Description": "Don't ask me.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_IceKing",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Point It Out",
+    "ShortDescription": "Emote",
+    "Description": "You've been warned.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season7.BattlePass.Paid",
+      "Cosmetics.Set.IceKing"
+    ]
+  },
+  {
+    "EID": "EID_Hype",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Hype",
+    "ShortDescription": "Emote",
+    "Description": "Get hyped.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season4.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_HulaHoopChallenge",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Hula Hoopin'",
+    "ShortDescription": "Emote",
+    "Description": "Practice makes perfect. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season11.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_HulaHoop",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Hoop Master",
+    "ShortDescription": "Emote",
+    "Description": "Round and round.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season8.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_Hula",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Hula",
+    "ShortDescription": "Emote",
+    "Description": "Get the luau started!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_HotStuff",
+    "DisplayName": "Hot Stuff",
+    "ShortDescription": "Emote",
+    "Description": "Tss!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_HoldOnAMinute",
+    "DisplayName": "Hang on",
+    "ShortDescription": "Emote",
+    "Description": "Let's just talk this out...",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Hitchhiker",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Hitchhiker",
+    "ShortDescription": "Emote",
+    "Description": "Take a hike.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_HipToBeSquare",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Business Hips",
+    "ShortDescription": "Emote",
+    "Description": "Put some swivel in your step.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_HipHopS7",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Free Flow",
+    "ShortDescription": "Emote",
+    "Description": "Feel the flow.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season7.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_HipHopS5",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Breakdown",
+    "ShortDescription": "Emote",
+    "Description": "Break it down.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season5.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_HipHop01",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Freestylin'",
+    "ShortDescription": "Emote",
+    "Description": "Tear up the dance floor."
+  },
+  {
+    "EID": "EID_HiLowWave",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Daydream",
+    "ShortDescription": "Emote",
+    "Description": "Dance the day away.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_HiFive_SyncOwned",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "High Five",
+    "ShortDescription": "Emote",
+    "Description": "Up Top.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season11.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_HiFive",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "High Five",
+    "ShortDescription": "Emote",
+    "Description": "Up Top.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season11.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.Synced"
+    ]
+  },
+  {
+    "EID": "EID_HeelClick",
+    "DisplayName": "Click!",
+    "ShortDescription": "Emote",
+    "Description": "Jump for joy.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_HeadShake",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Bobbin'",
+    "ShortDescription": "Emote",
+    "Description": "Really get into it.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_HeadBang",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Headbanger",
+    "ShortDescription": "Emote",
+    "Description": "Bang your head against the air.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_HappyWave",
+    "DisplayName": "Hello Friend",
+    "ShortDescription": "Emote",
+    "Description": "Hi there!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season8.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_HappySkipping",
+    "DisplayName": "Tra La La",
+    "ShortDescription": "Emote",
+    "Description": "Sometimes you just need to skip the battle.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season10.BattlePass.Free",
+      "Cosmetics.UserFacingFlags.Emote.Traversal",
+      "Cosmetics.QuestsMetaData.Emote.HappySkipping"
+    ]
+  },
+  {
+    "EID": "EID_HandstandLegDab",
+    "DisplayName": "Dabstand",
+    "ShortDescription": "Emote",
+    "Description": "Get a leg up on the competition.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season10.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_HalloweenCandy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Treat Yourself",
+    "ShortDescription": "Emote",
+    "Description": "Go ahead and take two... or the entire bucket.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_GunspinnerTeacup",
+    "ShortDescription": "Emote",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_GuitarWalk",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Guitar Walk",
+    "ShortDescription": "Emote",
+    "Description": "Play on.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal",
+      "phoebe.cosmetic.EID_GuitarWalk"
+    ]
+  },
+  {
+    "EID": "EID_Grooving",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Vibin'",
+    "ShortDescription": "Emote",
+    "Description": "Find your flow.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_GrooveJam",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Groove Jam",
+    "ShortDescription": "Emote",
+    "Description": "Untamed groove.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season4.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_GothDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Infectious",
+    "ShortDescription": "Emote",
+    "Description": "Let it take over.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "phoebe.cosmetic.EID_GothDance"
+    ]
+  },
+  {
+    "EID": "EID_GoodVibes",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Orange Justice",
+    "ShortDescription": "Emote",
+    "Description": "It's also a great exercise move.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season4.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_GolfClap",
+    "DisplayName": "Golf Clap",
+    "ShortDescription": "Emote",
+    "Description": "Good show. Good show.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season7.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_GoatDance_Sync_Owned",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Double Up",
+    "ShortDescription": "Emote",
+    "Description": "It takes two...",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_GoatDance_Sync",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Double Up",
+    "ShortDescription": "Emote",
+    "Description": "It takes two...",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_GoatDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Double Up",
+    "ShortDescription": "Emote",
+    "Description": "It takes two...",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Synced"
+    ]
+  },
+  {
+    "EID": "EID_GlowstickDance",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Glowsticks",
+    "ShortDescription": "Emote",
+    "Description": "Make it glow.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_GetFunky",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Get Funky",
+    "ShortDescription": "Emote",
+    "Description": "Find your groove.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season7.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_GabbyHipHop_01",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Laid Back Shuffle",
+    "ShortDescription": "Emote",
+    "Description": "It's all in the legs.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.QuestsMetaData.Glyph.Emote.GabbyHipHop"
+    ]
+  },
+  {
+    "EID": "EID_FrisbeeShow",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Disc Spinner",
+    "ShortDescription": "Emote",
+    "Description": "Put on a show.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Fresh",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Fresh",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Floss",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Floss",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season2.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_Flex02",
+    "DisplayName": "Flex On 'Em",
+    "ShortDescription": "Emote",
+    "Description": "Let them know.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Vigilante"
+    ]
+  },
+  {
+    "EID": "EID_Flex",
+    "DisplayName": "Gun Show",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Flapper",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Flapper",
+    "ShortDescription": "Emote",
+    "Description": "It's the bee's knees!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Flamenco",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Flamenco",
+    "ShortDescription": "Emote",
+    "Description": "Clap it up.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season6.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_FistPump",
+    "DisplayName": "Fist Pump",
+    "ShortDescription": "Emote",
+    "Description": "Emphatically flailing fists.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_FireworksSpin",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Rocket Spinner",
+    "ShortDescription": "Emote",
+    "Description": "Don't try this at home!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_FireDance",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Fire Spinner",
+    "ShortDescription": "Emote",
+    "Description": "Heat it up.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_FingerGunsV2",
+    "DisplayName": "Sharpshooter",
+    "ShortDescription": "Emote",
+    "Description": "Lookin' good out there. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season11.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_FingerGuns",
+    "DisplayName": "Finger Guns",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_FancyWorkout",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Fanciful",
+    "ShortDescription": "Emote",
+    "Description": "Just a little dance to get the heartrate going.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_Facepalm",
+    "DisplayName": "Face Palm",
+    "ShortDescription": "Emote",
+    "Description": "The cringe is real.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Everytime",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Vivacious",
+    "ShortDescription": "Emote",
+    "Description": "Never stop dancing.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ElectroSwing",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Electro Swing",
+    "ShortDescription": "Emote",
+    "Description": "Brand new groove, old school swing.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ElectroShuffle_V2",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Signature Shuffle",
+    "ShortDescription": "Emote",
+    "Description": "Show off your signature moves. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_EasternBloc",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Squat Kick",
+    "ShortDescription": "Emote",
+    "Description": "Don't skip leg day.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_DustOffShoulders",
+    "DisplayName": "Brush Your Shoulders",
+    "ShortDescription": "Emote",
+    "Description": "Get that dirt off your shoulder.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_DustingHands",
+    "DisplayName": "Job Well Done",
+    "ShortDescription": "Emote",
+    "Description": "That's that.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Dunk",
+    "DisplayName": "Buckets",
+    "ShortDescription": "Emote",
+    "Description": "Own the game.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Vigilante"
+    ]
+  },
+  {
+    "EID": "EID_Dumbbell_Lift",
+    "DisplayName": "Featherweight",
+    "ShortDescription": "Emote",
+    "Description": "Do you even lift?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season10.Levelup"
+    ]
+  },
+  {
+    "EID": "EID_DrumMajor",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Drum Major",
+    "ShortDescription": "Emote",
+    "Description": "Lead the line, and step in time.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_DreamFeet",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Dream Feet",
+    "ShortDescription": "Emote",
+    "Description": "Get some boogie in your boots.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Doublesnap",
+    "DisplayName": "Revel",
+    "ShortDescription": "Emote",
+    "Description": "Nothing wrong with a little celebration.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_DivinePose",
+    "DisplayName": "Harmony",
+    "ShortDescription": "Emote",
+    "Description": "Achieve inner balance. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_DiscoFever",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Disco Fever",
+    "ShortDescription": "Emote",
+    "Description": "Heat up the dance floor.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.FortniteFever"
+    ]
+  },
+  {
+    "EID": "EID_Disagree",
+    "DisplayName": "Denied",
+    "ShortDescription": "Emote",
+    "Description": "Not this time.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Dinosaur",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Rawr",
+    "ShortDescription": "Emote",
+    "Description": "Tyrannosaurus royale.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_DeepDab",
+    "DisplayName": "Deep Dab",
+    "ShortDescription": "Emote",
+    "Description": "Bring 'em down to your level.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Davinci",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Levitate",
+    "ShortDescription": "Emote",
+    "Description": "Rise above.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DarkEagle"
+    ]
+  },
+  {
+    "EID": "EID_DanceMoves",
+    "Rarity": "EFortRarity::Common",
+    "DisplayName": "Dance Moves",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.DefaultItem"
+    ]
+  },
+  {
+    "EID": "EID_Dab",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Dab",
+    "ShortDescription": "Emote",
+    "Description": "Express yourself on the battlefield.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Cry",
+    "DisplayName": "Waterworks",
+    "ShortDescription": "Emote",
+    "Description": "Show 'em your battle cry.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_CrazyFeet",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Crazy Feet",
+    "ShortDescription": "Emote",
+    "Description": "Wild and crazy feet!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_CrazyDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Droop",
+    "ShortDescription": "Emote",
+    "Description": "Dig deep.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season11.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_CrackshotDance",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Crackdown",
+    "ShortDescription": "Emote",
+    "Description": "Go nuts.",
+    "GameplayTags": [
+      "Cosmetics.Set.Nutcracker",
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_CrabDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Crabby",
+    "ShortDescription": "Emote",
+    "Description": "Ready in a pinch.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_CowboyDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Knee Slapper",
+    "ShortDescription": "Emote",
+    "Description": "Rustle up the rhythm.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "phoebe.cosmetic.EID_CowboyDance"
+    ]
+  },
+  {
+    "EID": "EID_CoolRobot",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Overdrive",
+    "ShortDescription": "Emote",
+    "Description": "Push it past the limit.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Conga",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Conga",
+    "ShortDescription": "Emote",
+    "Description": "Get in line.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season8.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_Confused",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Confused",
+    "ShortDescription": "Emote",
+    "Description": "Seriously. What happened?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Clapperboard",
+    "DisplayName": "Take 14",
+    "ShortDescription": "Emote",
+    "Description": "...and action!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Chopsticks",
+    "DisplayName": "Distracted",
+    "ShortDescription": "Emote",
+    "Description": "Plan of attack... entirely forgotten. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ChickenMoves",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Cluck Strut",
+    "ShortDescription": "Emote",
+    "Description": "Who're you calling chicken?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.UserFacingFlags.Emote.Traversal",
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.QuestsMetaData.Glyph.Emote.ChickenMoves"
+    ]
+  },
+  {
+    "EID": "EID_Chicken",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Chicken",
+    "ShortDescription": "Emote",
+    "Description": "Top of the pecking order.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Cheerleading",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Cheer Up",
+    "ShortDescription": "Emote",
+    "Description": "Be aggressive. B-E aggressive. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Celebration",
+    "DisplayName": "Jubilation",
+    "ShortDescription": "Emote",
+    "Description": "A heaping helping of happiness!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Cartwheel",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Cartwheelin'",
+    "ShortDescription": "Emote",
+    "Description": "Head over heels. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_Capoeira",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Capoeira",
+    "ShortDescription": "Emote",
+    "Description": "Are you ready to dance with danger?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_CandyDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Sugar Rush",
+    "ShortDescription": "Emote",
+    "Description": "Shake it til you crash.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Calculated",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Calculated",
+    "ShortDescription": "Emote",
+    "Description": "Think about it.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season5.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_CactusTPose",
+    "DisplayName": "Prickly Pose",
+    "ShortDescription": "Emote",
+    "Description": "Completely inconspicuous.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Burpee",
+    "DisplayName": "Burpee",
+    "ShortDescription": "Emote",
+    "Description": "Set a new personal best.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Bunnyhop",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Bunny Hop",
+    "ShortDescription": "Emote",
+    "Description": "Put all your eggs in one basket.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_BringItOn",
+    "DisplayName": "Bring It",
+    "ShortDescription": "Emote",
+    "Description": "Let's see what you've got.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_BreakYou",
+    "DisplayName": "Breaking Point",
+    "ShortDescription": "Emote",
+    "Description": "Give 'em a break.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Breakdance2",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Breakneck",
+    "ShortDescription": "Emote",
+    "Description": "Break it down, just don't break your neck.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_BreakDance",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Breakin'",
+    "ShortDescription": "Emote",
+    "Description": "Bust a move!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Breakboy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Switchstep",
+    "ShortDescription": "Emote",
+    "Description": "Switch it up.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_BoogieDown",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Boogie Down",
+    "ShortDescription": "Emote",
+    "Description": "Boogie Down with Populotus."
+  },
+  {
+    "EID": "EID_Boneless",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Boneless",
+    "ShortDescription": "Emote",
+    "Description": "Beyond bendy.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_BlowingBubbles",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Blowing Bubbles",
+    "ShortDescription": "Emote",
+    "Description": "Get poppin.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season10.BattlePass.Free"
+    ]
+  },
+  {
+    "EID": "EID_BlackMondayMale_E0VSB",
+    "DisplayName": "Bat Signal",
+    "ShortDescription": "Emote",
+    "Description": "Did somebody order a Batman?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ElectrodeDefect"
+    ]
+  },
+  {
+    "EID": "EID_BlackMondayMale2",
+    "DisplayName": "Martial Arts Master",
+    "ShortDescription": "Emote",
+    "Description": "Master the art of battle.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ElectrodeDefect"
+    ]
+  },
+  {
+    "EID": "EID_BillyBounce",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Billy Bounce",
+    "ShortDescription": "Emote",
+    "Description": "You do you. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  },
+  {
+    "EID": "EID_BestMates",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Best Mates",
+    "ShortDescription": "Emote",
+    "Description": "Who's your best mate?",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season3.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_Bendy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Zany",
+    "ShortDescription": "Emote",
+    "Description": "Go ahead, get weird with it.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Basketball",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Baller",
+    "ShortDescription": "Emote",
+    "Description": "Show off your moves.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Banana",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Nana Nana",
+    "ShortDescription": "Emote",
+    "Description": "Have a bunch of fun!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_BalletSpin",
+    "DisplayName": "Pirouette",
+    "ShortDescription": "Emote",
+    "Description": "On point.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Backflip",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Flippin' Incredible",
+    "ShortDescription": "Emote",
+    "Description": "Flip on 'em. Flex on 'em.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_AssassinVest",
+    "DisplayName": "Bulletproof",
+    "ShortDescription": "Emote",
+    "Description": "Brush it off.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Set.AssassinSuit",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_AssassinSalute",
+    "DisplayName": "Be Seeing You",
+    "ShortDescription": "Emote",
+    "Description": "Not if I see you first.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Set.AssassinSuit",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_AshtonSaltLake",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Dance Off",
+    "ShortDescription": "Emote",
+    "Description": "A perfect distraction.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.AshtonSaltLake"
+    ]
+  },
+  {
+    "EID": "EID_ArmWave",
+    "DisplayName": "Wavy T",
+    "ShortDescription": "Emote",
+    "Description": "Strike a wavy pose.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.Season11.BattlePass.Paid"
+    ]
+  },
+  {
+    "EID": "EID_ArmUpDance",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Backstroke",
+    "ShortDescription": "Emote",
+    "Description": "Put your back into it.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_AntiVisitorProtest",
+    "DisplayName": "Go home!",
+    "ShortDescription": "Emote",
+    "Description": "Leave us alone!",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_AlienSupport",
+    "DisplayName": "Team Space",
+    "ShortDescription": "Emote",
+    "Description": "Humanity had its chance.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.AbandonedCrowd"
+    ]
+  },
+  {
+    "EID": "EID_Alien",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Extraterrestrial",
+    "ShortDescription": "Emote",
+    "Description": "Interplanetary groove.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_AirHorn",
+    "DisplayName": "Air Horn",
+    "ShortDescription": "Emote",
+    "Description": "Subtle.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_AfroHouse",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Bombastic",
+    "ShortDescription": "Emote",
+    "Description": "Step up and show 'em what you've got.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Aerobics",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Work It Out",
+    "ShortDescription": "Emote",
+    "Description": "Break a sweat.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_AcrobaticSuperhero",
+    "DisplayName": "Ground Pound",
+    "ShortDescription": "Emote",
+    "Description": "Take it for a spin.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_Accolades",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Accolades",
+    "ShortDescription": "Emote",
+    "Description": "Soak it all in.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_BasketballV2",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Ballsy",
+    "ShortDescription": "Emote",
+    "Description": "Keep your eye on the ball. ",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "EID": "EID_ZombieWalk",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Zombified",
+    "ShortDescription": "Emote",
+    "Description": "Braaaains.",
+    "GameplayTags": [
+      "Cosmetics.EmoteType.Dance",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Emote.Traversal"
+    ]
+  }
+]

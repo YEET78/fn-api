@@ -1,0 +1,4144 @@
+[
+  {
+    "BID": "BID_Random",
+    "Rarity": "EFortRarity::Common",
+    "DisplayName": "Random",
+    "ShortDescription": "Back Bling",
+    "Description": "Randomly chooses between favorite Back Blings (or all owned Back Blings if nothing is marked as a favorite)",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_005_Raptor",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Raptor Satchel",
+    "ShortDescription": "Back Bling",
+    "Description": "Royale Air Force standard issue.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_012_SkiDude_CHN",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Alpine Accessories (CHN)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_020_SkiGirl_CHN",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mogul Ski Bag (CHN)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_037_BunnyMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Hard Boiled",
+    "ShortDescription": "Back Bling",
+    "Description": "Dipped & dyed.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.PastelPatrol"
+    ]
+  },
+  {
+    "BID": "BID_047_Candy",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Goodie Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Sweet!",
+    "GameplayTags": [
+      "Cosmetics.Source.Season4.BattlePass.Paid",
+      "Cosmetics.Set.SweetTooth"
+    ]
+  },
+  {
+    "BID": "BID_056_FighterPilot",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Bogey Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "You've got a bogey on your six.",
+    "GameplayTags": [
+      "Cosmetics.Source.StarterPack"
+    ]
+  },
+  {
+    "BID": "BID_074_LifeguardFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Pool Party",
+    "ShortDescription": "Back Bling",
+    "Description": "Magically floaty.",
+    "GameplayTags": [
+      "Cosmetics.Set.Lifeguard",
+      "Cosmetics.Source.Season5.BattlePass.Free"
+    ]
+  },
+  {
+    "BID": "BID_086_ExerciseFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Back Plate",
+    "ShortDescription": "Back Bling",
+    "Description": "Put your back into it.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Exercise"
+    ]
+  },
+  {
+    "BID": "BID_094_HippieFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Hip Shakers",
+    "ShortDescription": "Back Bling",
+    "Description": "Verifiably hip.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Hippie"
+    ]
+  },
+  {
+    "BID": "BID_103_Clawed",
+    "DisplayName": "Slashed",
+    "ShortDescription": "Back Bling",
+    "Description": "For narrow escapes.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_129_PumpkinSlice",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mouldering Cloak",
+    "ShortDescription": "Back Bling",
+    "Description": "Ragged and worn, from days long gone.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Pumpkin"
+    ]
+  },
+  {
+    "BID": "BID_136_MuertosMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Spirit Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Find your spirit.\r\nReactive: Glows in the dark",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Muertos",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_151_SushiChefFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Shrimpy",
+    "ShortDescription": "Back Bling",
+    "Description": "Pack a tasty snack on your back.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Sushi"
+    ]
+  },
+  {
+    "BID": "BID_166_RavenWinterMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Frozen Iron Cage",
+    "ShortDescription": "Back Bling",
+    "Description": "There is no escape from the cold.",
+    "GameplayTags": [
+      "Cosmetics.Source.RMT.FrozenLegends",
+      "Cosmetics.Set.FrozenLegends"
+    ]
+  },
+  {
+    "BID": "BID_176_NautilusMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Rebreather",
+    "ShortDescription": "Back Bling",
+    "Description": "Shelling out air on demand.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Nautilus"
+    ]
+  },
+  {
+    "BID": "BID_208_CupidDarkMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Fallen Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Ready to rebound.",
+    "GameplayTags": [
+      "Cosmetics.Source.RMT.LoveRanger",
+      "Cosmetics.Set.RoyaleHearts"
+    ]
+  },
+  {
+    "BID": "BID_222_AztecFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Sun Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Solar powered.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Aztec"
+    ]
+  },
+  {
+    "BID": "BID_257_Swashbuckler",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Slice 'n dice",
+    "ShortDescription": "Back Bling",
+    "Description": "Straight to the point.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Pirate"
+    ]
+  },
+  {
+    "BID": "BID_268_CyberScavengerFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Phrenzy",
+    "ShortDescription": "Back Bling",
+    "Description": "Burn through the firewall. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.CyberScavenger"
+    ]
+  },
+  {
+    "BID": "BID_290_Butterfly",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Flutter Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Float like a butterfly.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Butterfly"
+    ]
+  },
+  {
+    "BID": "BID_301_HeistSummer",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Tiny Totem",
+    "ShortDescription": "Back Bling",
+    "Description": "Carved in the likeness of victory.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Bling"
+    ]
+  },
+  {
+    "BID": "BID_313_Bubblegum",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Bubble Blast",
+    "ShortDescription": "Back Bling",
+    "Description": "A flavor explosion.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Bubblegum"
+    ]
+  },
+  {
+    "BID": "BID_322_VoyagerRemix",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Gameplan",
+    "ShortDescription": "Back Bling",
+    "Description": "Bring your game wherever you go.",
+    "GameplayTags": [
+      "Cosmetics.Set.SpaceExplorers",
+      "Cosmetics.Source.Season10.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+    ]
+  },
+  {
+    "BID": "BID_335_Lopex",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Foxpack",
+    "ShortDescription": "Back Bling",
+    "Description": "Sly and spikey. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Lopex"
+    ]
+  },
+  {
+    "BID": "BID_344_CubeWildCard",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Wild Cube",
+    "ShortDescription": "Back Bling",
+    "Description": "Untamable. "
+  },
+  {
+    "BID": "BID_356_Punchy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Moose",
+    "ShortDescription": "Back Bling",
+    "Description": "Fight like a moose. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Set.Punchy",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_367_TacticalFishermanMale",
+    "DisplayName": "Tackle Box",
+    "ShortDescription": "Back Bling",
+    "Description": "Tackle the waves. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.Fisherman",
+      "Cosmetics.Source.Season11.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_381_RustyRaiderMotor",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Wheelie",
+    "ShortDescription": "Back Bling",
+    "Description": "Burn rubber.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetRacer"
+    ]
+  },
+  {
+    "BID": "BID_380_CuddleTeamDark",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Broken Heart",
+    "ShortDescription": "Back Bling",
+    "Description": "Stuffed with sadness.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RoyaleHearts"
+    ]
+  },
+  {
+    "BID": "BID_379_RedRidingRemix",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Pack Leader",
+    "ShortDescription": "Back Bling",
+    "Description": "The pack's got your back. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RedRiding"
+    ]
+  },
+  {
+    "BID": "BID_378_FishermanFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Fresh Catch",
+    "ShortDescription": "Back Bling",
+    "Description": "Catch and release.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Fisherman"
+    ]
+  },
+  {
+    "BID": "BID_377_CODSquad_Plaid_Female",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Leather Lugger",
+    "ShortDescription": "Back Bling",
+    "Description": "Geared up for any range.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Perimeter"
+    ]
+  },
+  {
+    "BID": "BID_376_CODSquad_Plaid",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Saddle Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Ready for any job.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Perimeter"
+    ]
+  },
+  {
+    "BID": "BID_372_Viper",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Fusion Orb",
+    "ShortDescription": "Back Bling",
+    "Description": "Encircle immeasurable energy.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season11.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.Nothingness"
+    ]
+  },
+  {
+    "BID": "BID_371_Sheath",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Blade Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Look sharp.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season11.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.CounterSpy"
+    ]
+  },
+  {
+    "BID": "BID_370_RebirthMedic",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Antidote",
+    "ShortDescription": "Back Bling",
+    "Description": "Find the cure. ",
+    "GameplayTags": [
+      "Cosmetics.Source.Season11.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.Revival"
+    ]
+  },
+  {
+    "BID": "BID_369_CrazyEight",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Ball Bling",
+    "ShortDescription": "Back Bling",
+    "Description": "Behind the eight ball.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season11.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.Billiards"
+    ]
+  },
+  {
+    "BID": "BID_368_RockClimber",
+    "DisplayName": "Basecamp Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Ascend to new heights. ",
+    "GameplayTags": [
+      "Cosmetics.Source.Season11.BattlePass.Free",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.Mountaineer"
+    ]
+  },
+  {
+    "BID": "BID_365_MascotMilitiaCuddle",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Heartless",
+    "ShortDescription": "Back Bling",
+    "Description": "Smother them with love.",
+    "GameplayTags": [
+      "Cosmetics.Set.ScoreCard"
+    ]
+  },
+  {
+    "BID": "BID_364_LlamaHero",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Llamacorn Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "A mighty sigil. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ScoreCard"
+    ]
+  },
+  {
+    "BID": "BID_362_BlackMondayHouston_2I53G",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Batman Comic Book Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Cloak yourself in darkness.",
+    "GameplayTags": [
+      "Cosmetics.Set.ElectrodeDefect"
+    ]
+  },
+  {
+    "BID": "BID_361_BlackMondayFemale_R0P2N",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Jeweled Cat",
+    "ShortDescription": "Back Bling",
+    "Description": "The purrfect prize. ",
+    "GameplayTags": [
+      "Cosmetics.Set.ElectrodeDefect",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_360_BlackMondayKansas_VCZ9M",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "The Dark Knight Movie Cloak",
+    "ShortDescription": "Back Bling",
+    "Description": "Become The Bat. ",
+    "GameplayTags": [
+      "Cosmetics.Set.ElectrodeDefect"
+    ]
+  },
+  {
+    "BID": "BID_359_MeteorManRemix",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Star Surge",
+    "ShortDescription": "Back Bling",
+    "Description": "Power through the rifts. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Asteroid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+    ]
+  },
+  {
+    "BID": "BID_358_StreetUrchin",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Pry Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "A hard look to pull off. "
+  },
+  {
+    "BID": "BID_357_Sleepytime",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Dreamer",
+    "ShortDescription": "Back Bling",
+    "Description": "Share the dream. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SleepyTime",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_355_Jumpstart",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Turbocoil",
+    "ShortDescription": "Back Bling",
+    "Description": "DO NOT TOUCH!",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Jumpstart"
+    ]
+  },
+  {
+    "BID": "BID_354_StreetFashionRed",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Red Alert",
+    "ShortDescription": "Back Bling",
+    "Description": "Let 'em know what's up.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetStripes"
+    ]
+  },
+  {
+    "BID": "BID_353_StreetGothCandy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Starlet",
+    "ShortDescription": "Back Bling",
+    "Description": "Make a wish.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_352_CupidFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Wings of Love",
+    "ShortDescription": "Back Bling",
+    "Description": "Soar on.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RoyaleHearts"
+    ]
+  },
+  {
+    "BID": "BID_351_FutureBikerWhite",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Spiked Shell",
+    "ShortDescription": "Back Bling",
+    "Description": "Durable and dangerous. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetRacer"
+    ]
+  },
+  {
+    "BID": "BID_350_TacticalBiker",
+    "DisplayName": "Motocase",
+    "ShortDescription": "Back Bling",
+    "Description": "Built for speed. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetRacer"
+    ]
+  },
+  {
+    "BID": "BID_349_RaptorBlackOps",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Containment Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Battle rated containment system. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RaptorBlackOps"
+    ]
+  },
+  {
+    "BID": "BID_348_PaddedArmor",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Stronghold ",
+    "ShortDescription": "Back Bling",
+    "Description": "Strong and ready.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.PaddedArmor"
+    ]
+  },
+  {
+    "BID": "BID_346_BlackWidowRogue",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Rogue Spider Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "Venomous protector.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.BlackWidow"
+    ]
+  },
+  {
+    "BID": "BID_345_ToxicKitty",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Toxic Kitty",
+    "ShortDescription": "Back Bling",
+    "Description": "Prepared for all nine lives.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.CautiousLoaf"
+    ]
+  },
+  {
+    "BID": "BID_343_CubeRedKnight",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Dark Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "Timeless.",
+    "GameplayTags": [
+      "Cosmetics.Set.FortKnights"
+    ]
+  },
+  {
+    "BID": "BID_342_LemonLime",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Wedge",
+    "ShortDescription": "Back Bling",
+    "Description": "Sleek and refreshing. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.LemonLime",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_340_WiseMaster",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Kunai Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "Sharp and steady. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WiseMaster"
+    ]
+  },
+  {
+    "BID": "BID_339_Syko",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Exo-Spine",
+    "ShortDescription": "Back Bling",
+    "Description": "Always carry a spare. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Syko"
+    ]
+  },
+  {
+    "BID": "BID_338_StarWalker",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Starfield",
+    "ShortDescription": "Back Bling",
+    "Description": "The fate of the galaxy rests on your shoulders. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StarWalker"
+    ]
+  },
+  {
+    "BID": "BID_337_MascotMilitiaTomato",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "TomCom",
+    "ShortDescription": "Back Bling",
+    "Description": "Savory field radio. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ScoreCard"
+    ]
+  },
+  {
+    "BID": "BID_336_MascotMilitiaBurger",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Takeout",
+    "ShortDescription": "Back Bling",
+    "Description": "Beefy. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.ScoreCard"
+    ]
+  },
+  {
+    "BID": "BID_334_BannerMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Banner Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "Customize your look by choosing a Banner and color in your Locker.",
+    "GameplayTags": [
+      "Cosmetics.Set.Banner",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_333_Reverb",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Backbeat",
+    "ShortDescription": "Back Bling",
+    "Description": "Live loud. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_332_FrostMystery",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Starcrest Flux",
+    "ShortDescription": "Back Bling",
+    "Description": "Pure perfection. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Set.ZoneWars"
+    ]
+  },
+  {
+    "BID": "BID_331_DarkNinjaWhite",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Starcrest Shift",
+    "ShortDescription": "Back Bling",
+    "Description": "Elegantly engineered. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Set.ZoneWars"
+    ]
+  },
+  {
+    "BID": "BID_330_AstronautEvilUpgrade",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Xenopod",
+    "ShortDescription": "Back Bling",
+    "Description": "Suspiciously glitchy.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SpaceExplorers"
+    ]
+  },
+  {
+    "BID": "BID_329_WildWestFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Grande Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "River ready.",
+    "GameplayTags": [
+      "Cosmetics.Set.Cowgirl",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_328_WildWest",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Detonator",
+    "ShortDescription": "Back Bling",
+    "Description": "Set it off.",
+    "GameplayTags": [
+      "Cosmetics.Set.Cowgirl",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_327_Meteorite",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Rift Rock",
+    "ShortDescription": "Back Bling",
+    "Description": "Back from beyond.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_326_Bronto",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Bronto Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "One for the ages.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DinoGuard"
+    ]
+  },
+  {
+    "BID": "BID_325_BoneWasp",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Primal Danger",
+    "ShortDescription": "Back Bling",
+    "Description": "Trust your instincts.",
+    "GameplayTags": [
+      "Cosmetics.Set.BoneWasp",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_324_BlueBadass",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Tri-Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Light it up.",
+    "GameplayTags": [
+      "Cosmetics.Set.BlueBadass",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_323_FunkOpsRemix",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Golden Disco",
+    "ShortDescription": "Back Bling",
+    "Description": "Now the party's started.",
+    "GameplayTags": [
+      "Cosmetics.Set.FortniteFever",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_321_RustLordRemixScavenger",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Trophy Sack",
+    "ShortDescription": "Back Bling",
+    "Description": "Keep ahead of the competition.",
+    "GameplayTags": [
+      "Cosmetics.Set.StormScavenger",
+      "Cosmetics.Source.Season10.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_320_RustLordRemix",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Spiked Satchel",
+    "ShortDescription": "Back Bling",
+    "Description": "Make your point.",
+    "GameplayTags": [
+      "Cosmetics.Set.StormScavenger",
+      "Cosmetics.Source.Season10.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+    ]
+  },
+  {
+    "BID": "BID_319_StreetRacerDriftRemix",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Atmosphere",
+    "ShortDescription": "Back Bling",
+    "Description": "Resonating with energy.",
+    "GameplayTags": [
+      "Cosmetics.Set.Drift",
+      "Cosmetics.Source.Season10.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_318_SparkleRemix",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Star Shot",
+    "ShortDescription": "Back Bling",
+    "Description": "Radiating confidence.",
+    "GameplayTags": [
+      "Cosmetics.Set.FortniteFever",
+      "Cosmetics.Source.Season10.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_317_KnightRemix",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Dragoncrest",
+    "ShortDescription": "Back Bling",
+    "Description": "Forged in dragon fire.",
+    "GameplayTags": [
+      "Cosmetics.Set.FortKnights",
+      "Cosmetics.Source.Season10.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+    ]
+  },
+  {
+    "BID": "BID_316_GraffitiRemix",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Paint Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Spray and pray.",
+    "GameplayTags": [
+      "Cosmetics.Set.AerosolAssassins",
+      "Cosmetics.Source.Season10.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+    ]
+  },
+  {
+    "BID": "BID_315_PizzaPit",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Cheesy",
+    "ShortDescription": "Back Bling",
+    "Description": "Lookin' sharp. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.PizzaPit"
+    ]
+  },
+  {
+    "BID": "BID_314_Geode",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Geode",
+    "ShortDescription": "Back Bling",
+    "Description": "Rock solid.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_312_Stealth",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Prospect",
+    "ShortDescription": "Back Bling",
+    "Description": "Endless possibilities.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_311_Multibot",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Jet Set",
+    "ShortDescription": "Back Bling",
+    "Description": "Powered up and ready for action.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.TeamShowdown",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_310_Lasagna",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Lazer Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Free the universe. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Lasagna"
+    ]
+  },
+  {
+    "BID": "BID_309_CyberKarateMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Striped Stalker",
+    "ShortDescription": "Back Bling",
+    "Description": "Ready to pounce.",
+    "GameplayTags": [
+      "Cosmetics.Set.CyberKarate",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_308_CyberKarateFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Tahna",
+    "ShortDescription": "Back Bling",
+    "Description": "On the edge.",
+    "GameplayTags": [
+      "Cosmetics.Set.CyberKarate",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_307_Bani",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Mochi",
+    "ShortDescription": "Back Bling",
+    "Description": "So sweet.",
+    "GameplayTags": [
+      "Cosmetics.Set.Bani",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_306_StarAndStripesMale",
+    "DisplayName": "Color Guard",
+    "ShortDescription": "Back Bling",
+    "Description": "Forever bold. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StarsAndStripes"
+    ]
+  },
+  {
+    "BID": "BID_305_StarAndStripesFemale",
+    "DisplayName": "Brave Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Brave and blue. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StarsAndStripes"
+    ]
+  },
+  {
+    "BID": "BID_304_Duck",
+    "DisplayName": "Quack Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Everybody duck. ",
+    "GameplayTags": [
+      "Cosmetics.Source.Event.14DaysOfSummer.Backpack"
+    ]
+  },
+  {
+    "BID": "BID_303_BananaSmoothie",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Smoothie",
+    "ShortDescription": "Back Bling",
+    "Description": "Blended banana buddy.",
+    "GameplayTags": [
+      "Cosmetics.Set.BunkerMan",
+      "Cosmetics.Source.Event.14DaysOfSummer.Backpack"
+    ]
+  },
+  {
+    "BID": "BID_302_Hairy",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Cooler",
+    "ShortDescription": "Back Bling",
+    "Description": "Pack a snack. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Hairy"
+    ]
+  },
+  {
+    "BID": "BID_300_DriftSummer",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Oozie",
+    "ShortDescription": "Back Bling",
+    "Description": "Stay hydrated. ",
+    "GameplayTags": [
+      "Cosmetics.Set.Drift",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_299_BriteBomberSummer",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Brite Board",
+    "ShortDescription": "Back Bling",
+    "Description": "Shred the sunshine. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SunshineAndRainbows"
+    ]
+  },
+  {
+    "BID": "BID_298_ZodiacFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Glow Jet",
+    "ShortDescription": "Back Bling",
+    "Description": "Rated for all known atmospheres. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Zodiac"
+    ]
+  },
+  {
+    "BID": "BID_297_SpaceGirl",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Streamline",
+    "ShortDescription": "Back Bling",
+    "Description": "Streamlined style. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_296_Sarong",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Floral Shell",
+    "ShortDescription": "Back Bling",
+    "Description": "Seaside style. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Sarong"
+    ]
+  },
+  {
+    "BID": "BID_295_Jellyfish",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Anemone",
+    "ShortDescription": "Back Bling",
+    "Description": "Pleasantly hypnotic. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.TeriyakiFish"
+    ]
+  },
+  {
+    "BID": "BID_294_GlowBroMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Lumi Core Green",
+    "ShortDescription": "Back Bling",
+    "Description": "Don't tap the glass.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GlowBro"
+    ]
+  },
+  {
+    "BID": "BID_293_GlowBroFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Lumi Core Red",
+    "ShortDescription": "Back Bling",
+    "Description": "Do not disturb. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GlowBro"
+    ]
+  },
+  {
+    "BID": "BID_292_CyberFuFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Chuck Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Wield responsibly.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.CyberFu"
+    ]
+  },
+  {
+    "BID": "BID_291_Caterpillar",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Carapace",
+    "ShortDescription": "Back Bling",
+    "Description": "Naturally thick skinned.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Butterfly"
+    ]
+  },
+  {
+    "BID": "BID_289_Banner",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Banner Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Customize your look by choosing a Banner and color in your Locker.",
+    "GameplayTags": [
+      "Cosmetics.Set.Banner",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_288_CyberScavengerFemaleBlue",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Neo Phrenzy",
+    "ShortDescription": "Back Bling",
+    "Description": "Phase through the firewall. ",
+    "GameplayTags": [
+      "Cosmetics.Set.CyberScavenger",
+      "Cosmetics.Source.Promo"
+    ]
+  },
+  {
+    "BID": "BID_287_AztecFemaleEclipse",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Shadowbird Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Fly in the eclipse.",
+    "GameplayTags": [
+      "Cosmetics.Set.Aztec",
+      "Cosmetics.Source.RMT.Eclipse"
+    ]
+  },
+  {
+    "BID": "BID_286_WinterGhoulMaleEclipse",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Perfect Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Soar in shadows.",
+    "GameplayTags": [
+      "Cosmetics.Source.RMT.Eclipse"
+    ]
+  },
+  {
+    "BID": "BID_285_SkullBriteEclipse",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Stark Satchel",
+    "ShortDescription": "Back Bling",
+    "Description": "Equal parts adorable and stark.",
+    "GameplayTags": [
+      "Cosmetics.Set.SkullBrite",
+      "Cosmetics.Source.RMT.Eclipse"
+    ]
+  },
+  {
+    "BID": "BID_284_NeonLines",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Signal Jammer",
+    "ShortDescription": "Back Bling",
+    "Description": "Nothing gets through.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BlueBadass"
+    ]
+  },
+  {
+    "BID": "BID_283_StormSoldier",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Lightning Cloak",
+    "ShortDescription": "Back Bling",
+    "Description": "Crackling with furious energy.",
+    "GameplayTags": [
+      "Cosmetics.Set.StormSoldier",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_282_UrbanScavenger",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Utility Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Everything you need.",
+    "GameplayTags": [
+      "Cosmetics.Set.UrbanScavenger",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_281_DemonHunterMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Ocular",
+    "ShortDescription": "Back Bling",
+    "Description": "Always watching.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DemonHunter"
+    ]
+  },
+  {
+    "BID": "BID_280_DemonHunterFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Hexxed",
+    "ShortDescription": "Back Bling",
+    "Description": "Caution: Haunted.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DemonHunter"
+    ]
+  },
+  {
+    "BID": "BID_279_CyberRunner",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Holo-pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Holographically enhanced battle bag.",
+    "GameplayTags": [
+      "Cosmetics.Set.CyberRunner",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_278_VigilanteBoard",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Back Board",
+    "ShortDescription": "Back Bling",
+    "Description": "Decked out.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.Vigilante",
+      "Cosmetics.Source.Event.CreativePromo.Backpack"
+    ]
+  },
+  {
+    "BID": "BID_277_WhiteTiger",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Palette Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Sharp color. ",
+    "GameplayTags": [
+      "Cosmetics.Set.WhiteTiger",
+      "Cosmetics.Source.RMT.WhiteTiger"
+    ]
+  },
+  {
+    "BID": "BID_276_Pug",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Chow Down",
+    "ShortDescription": "Back Bling",
+    "Description": "Stay hungry. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Pug"
+    ]
+  },
+  {
+    "BID": "BID_275_Geisha",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Gaze",
+    "ShortDescription": "Back Bling",
+    "Description": "Unbroken sight.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Geisha"
+    ]
+  },
+  {
+    "BID": "BID_273_AssassinSuitCoin",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Gold Token",
+    "ShortDescription": "Back Bling",
+    "Description": "Out of unity comes strength.",
+    "GameplayTags": [
+      "Cosmetics.Set.AssassinSuit",
+      "Cosmetics.Source.Event.AssassinSuit.Backpack"
+    ]
+  },
+  {
+    "BID": "BID_272_AssassinSuitFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Gun Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Locked and loaded. ",
+    "GameplayTags": [
+      "Cosmetics.Set.AssassinSuit",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_271_AssassinSuitMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Assassin Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Ready for anything.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.AssassinSuit"
+    ]
+  },
+  {
+    "BID": "BID_270_StreetDemon",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Spectral Spine",
+    "ShortDescription": "Back Bling",
+    "Description": "Show some backbone. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetDemon"
+    ]
+  },
+  {
+    "BID": "BID_269_RaptorFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Bomber bag",
+    "ShortDescription": "Back Bling",
+    "Description": "High flying. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_267_CyberScavengerMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "CnXn",
+    "ShortDescription": "Back Bling",
+    "Description": "Always connected.",
+    "GameplayTags": [
+      "Cosmetics.Set.CyberScavenger",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_266_BunkerMan",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Nana Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "A Peely original. ",
+    "GameplayTags": [
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.Set.BunkerMan",
+      "Cosmetics.QuestsMetaData.Glyph.Backpack.BunkerMan"
+    ]
+  },
+  {
+    "BID": "BID_265_BattleSuit",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Retribution",
+    "ShortDescription": "Back Bling",
+    "Description": "Strike back. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.Set.BattleSuit"
+    ]
+  },
+  {
+    "BID": "BID_264_StormTracker",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Backtracker",
+    "ShortDescription": "Back Bling",
+    "Description": "Features real-time storm data.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.Set.StormTracker",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_263_Masako",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Scarlet Edge",
+    "ShortDescription": "Back Bling",
+    "Description": "Double bladed fury. ",
+    "GameplayTags": [
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.Set.Masako"
+    ]
+  },
+  {
+    "BID": "BID_262_BountyHunterFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Go bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Always ready. ",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.Set.BountyHunter"
+    ]
+  },
+  {
+    "BID": "BID_261_Rooster",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Hot Wing",
+    "ShortDescription": "Back Bling",
+    "Description": "Sear through the sky.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Source.Season9.BattlePass.Paid",
+      "Cosmetics.Set.Rooster"
+    ]
+  },
+  {
+    "BID": "BID_259_Ashton_SaltLake",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Star-Lord Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Fit for an outlaw.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.AshtonSaltLake"
+    ]
+  },
+  {
+    "BID": "BID_258_AshtonBoardwalk",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Widow’s Pack ",
+    "ShortDescription": "Back Bling",
+    "Description": "Mission ready.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.AshtonBoardwalk"
+    ]
+  },
+  {
+    "BID": "BID_256_ShatterFly",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Shattered Wing",
+    "ShortDescription": "Back Bling",
+    "Description": "Break through. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BrokenLight"
+    ]
+  },
+  {
+    "BID": "BID_255_MoonlightAssassin",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Lunar Light",
+    "ShortDescription": "Back Bling",
+    "Description": "Interstellar style. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Interstellar"
+    ]
+  },
+  {
+    "BID": "BID_254_ShinyMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Diamond Star",
+    "ShortDescription": "Back Bling",
+    "Description": "Perfectly cut.",
+    "GameplayTags": [
+      "Cosmetics.Set.Shiny",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_253_HoppityHeist",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Bunny Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Take the bunny and run.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.HoppityHeist"
+    ]
+  },
+  {
+    "BID": "BID_252_EvilBunny",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Floppy",
+    "ShortDescription": "Back Bling",
+    "Description": "This bunny's gone bad.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.EvilBunny"
+    ]
+  },
+  {
+    "BID": "BID_251_SpaceBunny",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Cryo Hops",
+    "ShortDescription": "Back Bling",
+    "Description": "The bunny's just chilling.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_250_TheBomb",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Volatile",
+    "ShortDescription": "Back Bling",
+    "Description": "Make mine explosive.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.TheBomb"
+    ]
+  },
+  {
+    "BID": "BID_249_StreetOpsStealth",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Stealth Response Unit",
+    "ShortDescription": "Back Bling",
+    "Description": "Quick and quiet.",
+    "GameplayTags": [
+      "Cosmetics.Set.StreetOps",
+      "Cosmetics.Source.Promo"
+    ]
+  },
+  {
+    "BID": "BID_248_Pilots",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Gauge",
+    "ShortDescription": "Back Bling",
+    "Description": "Targets engaged.\r\nReactive: Displays your number of eliminations in the match.",
+    "GameplayTags": [
+      "Cosmetics.Set.Pilots",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_247_StreetAssassin",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Bladed Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Sharp and ready.",
+    "GameplayTags": [
+      "Cosmetics.Set.StreetAssassin",
+      "Cosmetics.Source.StarterPack"
+    ]
+  },
+  {
+    "BID": "BID_246_BaseballKitbashMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Strike Zone",
+    "ShortDescription": "Back Bling",
+    "Description": "Strike 'em out.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BaseballKitbash"
+    ]
+  },
+  {
+    "BID": "BID_245_BaseballKitbashFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Double Play",
+    "ShortDescription": "Back Bling",
+    "Description": "Two for one.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BaseballKitbash"
+    ]
+  },
+  {
+    "BID": "BID_244_DarkVikingFire",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Molten Valkyrie Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Burning winds prevail.",
+    "GameplayTags": [
+      "Cosmetics.Set.Molten",
+      "Cosmetics.Source.RMT.LavaLegends"
+    ]
+  },
+  {
+    "BID": "BID_243_BattleHoundFire",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Molten Crested Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Molten and courageous.",
+    "GameplayTags": [
+      "Cosmetics.Set.Molten",
+      "Cosmetics.Source.RMT.LavaLegends"
+    ]
+  },
+  {
+    "BID": "BID_242_FurnaceFace",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Dying Light",
+    "ShortDescription": "Back Bling",
+    "Description": "The light before the darkness.",
+    "GameplayTags": [
+      "Cosmetics.Set.FurnaceFace",
+      "Cosmetics.Source.Season8.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_241_DarkShamanFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Cuddle Doll",
+    "ShortDescription": "Back Bling",
+    "Description": "Cute, cuddly, and cursed.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DarkShaman"
+    ]
+  },
+  {
+    "BID": "BID_240_DarkShamanMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Battle Mask",
+    "ShortDescription": "Back Bling",
+    "Description": "Battle boldly.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DarkShaman"
+    ]
+  },
+  {
+    "BID": "BID_238_Pirate02Male",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Barrel & Booty",
+    "ShortDescription": "Back Bling",
+    "Description": "True bling.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Pirate"
+    ]
+  },
+  {
+    "BID": "BID_236_Pirate01Female",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Seaworthy",
+    "ShortDescription": "Back Bling",
+    "Description": "Ready to board.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Set.Pirate"
+    ]
+  },
+  {
+    "BID": "BID_235_Heist",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Crystal Llama",
+    "ShortDescription": "Back Bling",
+    "Description": "Shiny!",
+    "GameplayTags": [
+      "Cosmetics.Source.Event.Heist",
+      "Cosmetics.Set.Bling",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_234_SpeedyMidnight",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Dark Deflector",
+    "ShortDescription": "Back Bling",
+    "Description": "Darken the course of the battle.",
+    "GameplayTags": [
+      "Cosmetics.Set.SpeedyMidnight",
+      "Cosmetics.Source.Platform.XboxHW"
+    ]
+  },
+  {
+    "BID": "BID_233_DevilRock",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Malice Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Simply malicious.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DevilRock"
+    ]
+  },
+  {
+    "BID": "BID_232_Leprechaun",
+    "DisplayName": "Lucky Coins",
+    "ShortDescription": "Back Bling",
+    "Description": "Save up your luck.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GreenClover"
+    ]
+  },
+  {
+    "BID": "BID_231_TropicalFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Pineapple Strummer",
+    "ShortDescription": "Back Bling",
+    "Description": "Sounds sweet.",
+    "GameplayTags": [
+      "Cosmetics.Source.RMT.LagunaStarterPack",
+      "Cosmetics.Set.Tropical"
+    ]
+  },
+  {
+    "BID": "BID_230_TropicalMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Banana Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Potassium Packed.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Tropical"
+    ]
+  },
+  {
+    "BID": "BID_229_LuckyRiderMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Rainbow Clover",
+    "ShortDescription": "Back Bling",
+    "Description": "Three leaf fashion.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GreenClover"
+    ]
+  },
+  {
+    "BID": "BID_228_SciOpsMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Commission",
+    "ShortDescription": "Back Bling",
+    "Description": "Authorized to engage.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SciOps"
+    ]
+  },
+  {
+    "BID": "BID_227_SciOpsFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Omission",
+    "ShortDescription": "Back Bling",
+    "Description": "Selectively discreet.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SciOps"
+    ]
+  },
+  {
+    "BID": "BID_226_BandageNinjaFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Dual Kama",
+    "ShortDescription": "Back Bling",
+    "Description": "Goes hand in hand with victory.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BandageNinja"
+    ]
+  },
+  {
+    "BID": "BID_225_BandageNinjaMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Katana & Kunai",
+    "ShortDescription": "Back Bling",
+    "Description": "Blades of choice.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BandageNinja"
+    ]
+  },
+  {
+    "BID": "BID_224_TechOpsBlue",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Carbon Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Lightweight and combat ready.",
+    "GameplayTags": [
+      "Cosmetics.Source.Promo"
+    ]
+  },
+  {
+    "BID": "BID_223_OrangeCamo",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Oscilloscope",
+    "ShortDescription": "Back Bling",
+    "Description": "Dialed in.",
+    "GameplayTags": [
+      "Cosmetics.Set.TechOps",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_221_AztecMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Hypnotic",
+    "ShortDescription": "Back Bling",
+    "Description": "Look into my eyes...",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Aztec"
+    ]
+  },
+  {
+    "BID": "BID_220_FarmerFemale",
+    "DisplayName": "Sun Sprout",
+    "ShortDescription": "Back Bling",
+    "Description": "Perfectly sunny.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Farmer"
+    ]
+  },
+  {
+    "BID": "BID_219_FarmerMale",
+    "DisplayName": "Haystacks",
+    "ShortDescription": "Back Bling",
+    "Description": "Characteristically unfriendly to birds.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Farmer"
+    ]
+  },
+  {
+    "BID": "BID_218_Medusa",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Cobra",
+    "ShortDescription": "Back Bling",
+    "Description": "King of the serpents.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season8.BattlePass.Paid",
+      "Cosmetics.Set.Medusa"
+    ]
+  },
+  {
+    "BID": "BID_217_ShinyFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "High Caliber",
+    "ShortDescription": "Back Bling",
+    "Description": "Fully loaded flair.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season8.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.Shiny"
+    ]
+  },
+  {
+    "BID": "BID_216_PirateProgressive",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Mutiny",
+    "ShortDescription": "Back Bling",
+    "Description": "Seize the wheel.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season8.BattlePass.Paid",
+      "Cosmetics.Set.Pirate"
+    ]
+  },
+  {
+    "BID": "BID_215_MasterKey",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Master Portal",
+    "ShortDescription": "Back Bling",
+    "Description": "Unlock the mystery.\r\nReactive: Changes style based on number of chests opened in a match.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.Reactive",
+      "Cosmetics.Source.Season8.BattlePass.Free",
+      "Cosmetics.Set.MasterKey"
+    ]
+  },
+  {
+    "BID": "BID_214_LoveLlama",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Sweetheart",
+    "ShortDescription": "Back Bling",
+    "Description": "Wear your heart on your back.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RoyaleHearts"
+    ]
+  },
+  {
+    "BID": "BID_213_IceCream",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Sno Cone",
+    "ShortDescription": "Back Bling",
+    "Description": "A neverending treat.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.IceCream",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_211_SkullBrite",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Skully Satchel",
+    "ShortDescription": "Back Bling",
+    "Description": "Equal parts adorable and disturbing.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+      "Cosmetics.Set.SkullBrite"
+    ]
+  },
+  {
+    "BID": "BID_210_RobotTroubleFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Cannister Carrier",
+    "ShortDescription": "Back Bling",
+    "Description": "Spray it, don't say it.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RobotTrouble"
+    ]
+  },
+  {
+    "BID": "BID_209_RobotTroubleMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Board Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Ready for the grind.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RobotTrouble"
+    ]
+  },
+  {
+    "BID": "BID_206_ScrapyardFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Scrappy",
+    "ShortDescription": "Back Bling",
+    "Description": "Barking out of the Boneyard.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Scrapyard"
+    ]
+  },
+  {
+    "BID": "BID_205_ScrapyardMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Trash Lid",
+    "ShortDescription": "Back Bling",
+    "Description": "Put a lid on it.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Scrapyard"
+    ]
+  },
+  {
+    "BID": "BID_204_TennisFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Used Racket",
+    "ShortDescription": "Back Bling",
+    "Description": "Near mint condition!",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_203_BlueMystery",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Reinforced Backplate",
+    "ShortDescription": "Back Bling",
+    "Description": "Strong and secured.",
+    "GameplayTags": [
+      "Cosmetics.Source.RMT.CobaltStarterPack"
+    ]
+  },
+  {
+    "BID": "BID_202_WavyManFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Twistie Inflator",
+    "ShortDescription": "Back Bling",
+    "Description": "Your biggest fan.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WavyMan"
+    ]
+  },
+  {
+    "BID": "BID_201_WavyManMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Bendie Inflator",
+    "ShortDescription": "Back Bling",
+    "Description": "It literally blows.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WavyMan"
+    ]
+  },
+  {
+    "BID": "BID_200_SnowNinjaFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Snowbrand",
+    "ShortDescription": "Back Bling",
+    "Description": "Piercingly cold.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SnowNinja"
+    ]
+  },
+  {
+    "BID": "BID_199_IceQueen",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Ice Spikes",
+    "ShortDescription": "Back Bling",
+    "Description": "Clad yourself in jagged ice.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.IceKing",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+    ]
+  },
+  {
+    "BID": "BID_198_TechOps",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Capacitor",
+    "ShortDescription": "Back Bling",
+    "Description": "Fully charged.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.TechOps"
+    ]
+  },
+  {
+    "BID": "BID_197_BarbarianFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Runic Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "Claimed in battle.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Barbarian"
+    ]
+  },
+  {
+    "BID": "BID_196_BarbarianMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Emblazoned Buckler",
+    "ShortDescription": "Back Bling",
+    "Description": "To the victor go the spoils.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Barbarian"
+    ]
+  },
+  {
+    "BID": "BID_195_FunkOpsFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Disco Ball",
+    "ShortDescription": "Back Bling",
+    "Description": "Lose yourself in the sparkling light.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.FortniteFever"
+    ]
+  },
+  {
+    "BID": "BID_194_Krampus",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Brat Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Fill 'er up.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Krampus"
+    ]
+  },
+  {
+    "BID": "BID_193_TeriyakiFishMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Saltwater Satchel",
+    "ShortDescription": "Back Bling",
+    "Description": "Keep the ocean at hand.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.TeriyakiFish"
+    ]
+  },
+  {
+    "BID": "BID_192_WinterHolidayFemale",
+    "DisplayName": "Combat Wreath",
+    "ShortDescription": "Back Bling",
+    "Description": "Tidings of combat and joy.",
+    "GameplayTags": [
+      "Cosmetics.Source.Event.14DaysOfFortnite"
+    ]
+  },
+  {
+    "BID": "BID_191_WinterGhoulMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Shadow Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Soar in the shadows.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_190_StreetGothFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Stitches",
+    "ShortDescription": "Back Bling",
+    "Description": "Sown into your nightmares.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetGoth"
+    ]
+  },
+  {
+    "BID": "BID_189_StreetGothMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Eternal",
+    "ShortDescription": "Back Bling",
+    "Description": "Unbounded.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetGoth"
+    ]
+  },
+  {
+    "BID": "BID_188_FortniteDJFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Glow Show",
+    "ShortDescription": "Back Bling",
+    "Description": "Illuminate the room.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.FortniteDJ"
+    ]
+  },
+  {
+    "BID": "BID_187_GingerbreadFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Giddy Gunner",
+    "ShortDescription": "Back Bling",
+    "Description": "Extra sweet.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Gingerbread"
+    ]
+  },
+  {
+    "BID": "BID_186_GingerbreadMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mini Marauder",
+    "ShortDescription": "Back Bling",
+    "Description": "Extra salty.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Gingerbread"
+    ]
+  },
+  {
+    "BID": "BID_185_GnomeMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Luminous Lamp",
+    "ShortDescription": "Back Bling",
+    "Description": "Light up the night.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_184_SnowFairyFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Flutterfrost",
+    "ShortDescription": "Back Bling",
+    "Description": "A chill is in the air.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_183_NutcrackerFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Snackshot",
+    "ShortDescription": "Back Bling",
+    "Description": "Now snack-sized.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Nutcracker"
+    ]
+  },
+  {
+    "BID": "BID_182_NutcrackerMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Birdshot",
+    "ShortDescription": "Back Bling",
+    "Description": "Flock together.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Nutcracker"
+    ]
+  },
+  {
+    "BID": "BID_181_SnowNinjaMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Snow Star",
+    "ShortDescription": "Back Bling",
+    "Description": "Hard to handle.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SnowNinja"
+    ]
+  },
+  {
+    "BID": "BID_180_IceMaiden",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Glimmering Cloak",
+    "ShortDescription": "Back Bling",
+    "Description": "Tailored from ice and snow.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.IceMaiden"
+    ]
+  },
+  {
+    "BID": "BID_179_DemonMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Malcore Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Spread your wicked wings.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.EternalStruggle"
+    ]
+  },
+  {
+    "BID": "BID_178_Angel",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Ark Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Pristine plumage.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.EternalStruggle"
+    ]
+  },
+  {
+    "BID": "BID_177_NautilusFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Octotank",
+    "ShortDescription": "Back Bling",
+    "Description": "Eight chambers of oxygen.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Nautilus"
+    ]
+  },
+  {
+    "BID": "BID_175_Prisoner",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Padlock",
+    "ShortDescription": "Back Bling",
+    "Description": "Locked down.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season7.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_171_Rhino",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "V6",
+    "ShortDescription": "Back Bling",
+    "Description": "Get revved up!",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Mechanimal",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_170_MathFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Techie",
+    "ShortDescription": "Back Bling",
+    "Description": "Boot up.",
+    "GameplayTags": [
+      "Cosmetics.Set.Math",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_169_MathMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Tabulator",
+    "ShortDescription": "Back Bling",
+    "Description": "Get those digits.\r\nReactive: Displays your number of eliminations in the match.",
+    "GameplayTags": [
+      "Cosmetics.Source.Promo",
+      "Cosmetics.Set.Math",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_168_CupidWinterMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Frozen Love Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Freeze love in its tracks.",
+    "GameplayTags": [
+      "Cosmetics.Set.FrozenLegends",
+      "Cosmetics.Source.RMT.FrozenLegends"
+    ]
+  },
+  {
+    "BID": "BID_167_RedKnightWinterFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Frozen Red Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "The Red Knight's legendary frozen shield.",
+    "GameplayTags": [
+      "Cosmetics.Set.FrozenLegends",
+      "Cosmetics.Source.RMT.FrozenLegends"
+    ]
+  },
+  {
+    "BID": "BID_165_BlueBadassFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Signal Hub",
+    "ShortDescription": "Back Bling",
+    "Description": "Uplink secured.\r\nReactive: Changes color based on damage dealt to opponents.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.Reactive",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BlueBadass"
+    ]
+  },
+  {
+    "BID": "BID_164_SnowmanMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Slushy Jr.",
+    "ShortDescription": "Back Bling",
+    "Description": "Prone to meltdowns.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_163_IceKing",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Ice Mantle",
+    "ShortDescription": "Back Bling",
+    "Description": "Fit for an ice king.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season7.BattlePass.Paid",
+      "Cosmetics.Set.IceKing",
+      "Cosmetics.UserFacingFlags.HasUpgradeQuests"
+    ]
+  },
+  {
+    "BID": "BID_162_YetiMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Ice Cube",
+    "ShortDescription": "Back Bling",
+    "Description": "Even too cold for penguins.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season7.BattlePass.Paid",
+      "Cosmetics.Set.Yeti"
+    ]
+  },
+  {
+    "BID": "BID_161_SnowBoardFemale",
+    "DisplayName": "Trail Tote",
+    "ShortDescription": "Back Bling",
+    "Description": "Hit the slopes!",
+    "GameplayTags": [
+      "Cosmetics.Source.Season7.BattlePass.Free",
+      "Cosmetics.Set.Snowboard"
+    ]
+  },
+  {
+    "BID": "BID_160_TacticalSantaMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Perfect Present",
+    "ShortDescription": "Back Bling",
+    "Description": "I wonder what it could be?!",
+    "GameplayTags": [
+      "Cosmetics.Source.Season7.BattlePass.Paid",
+      "Cosmetics.Set.TacticalSanta"
+    ]
+  },
+  {
+    "BID": "BID_158_ArcticSniperMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Altitude",
+    "ShortDescription": "Back Bling",
+    "Description": "Climb to the top.\r\nReactive: Indicates your current altitude.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season7.BattlePass.Paid",
+      "Cosmetics.Set.ArcticSniper",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_157_MothMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Wingback",
+    "ShortDescription": "Back Bling",
+    "Description": "Retracted & ready.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Moth"
+    ]
+  },
+  {
+    "BID": "BID_156_SniperHoodFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Sight Sling",
+    "ShortDescription": "Back Bling",
+    "Description": "Expertly sighted.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SniperHood"
+    ]
+  },
+  {
+    "BID": "BID_155_SniperHoodMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Scope Satchel",
+    "ShortDescription": "Back Bling",
+    "Description": "Geared for long distance.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SniperHood"
+    ]
+  },
+  {
+    "BID": "BID_154_Feathers",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Hatchback",
+    "ShortDescription": "Back Bling",
+    "Description": "Come out of your shell.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Feathers"
+    ]
+  },
+  {
+    "BID": "BID_153_HornedMaskFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "White Fang",
+    "ShortDescription": "Back Bling",
+    "Description": "Fearsome and fanged.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.HornedMask"
+    ]
+  },
+  {
+    "BID": "BID_152_HornedMaskMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Trusty Tusks",
+    "ShortDescription": "Back Bling",
+    "Description": "Tufted and tusked.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.HornedMask"
+    ]
+  },
+  {
+    "BID": "BID_150_Witch",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Tome Pouch",
+    "ShortDescription": "Back Bling",
+    "Description": "Long forgotten lore.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Witch",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_149_Wizard",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Spellbinder",
+    "ShortDescription": "Back Bling",
+    "Description": "Arcane apparel.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Witch",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_148_RobotRed",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "E.L.I.M.",
+    "ShortDescription": "Back Bling",
+    "Description": "Increment elimination count.\r\nReactive: Displays your number of eliminations in the match.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season6.BattlePass.Paid",
+      "Cosmetics.UserFacingFlags.Reactive",
+      "Cosmetics.Set.RobotRed"
+    ]
+  },
+  {
+    "BID": "BID_147_LilKev",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Lil' Kev",
+    "ShortDescription": "Back Bling",
+    "Description": "Loves to play in the lake.",
+    "GameplayTags": [
+      "Cosmetics.Source.Event.Fortnitemares.2018"
+    ]
+  },
+  {
+    "BID": "BID_146_AnimalJacketsFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Nibbles",
+    "ShortDescription": "Back Bling",
+    "Description": "Stuffed full of carrots.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.AnimalJackets",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_145_AnimalJacketsMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Woofs",
+    "ShortDescription": "Back Bling",
+    "Description": "Already house-broken.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.AnimalJackets",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_144_MadCommanderFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Puncture Pack",
+    "ShortDescription": "Back Bling",
+    "Description": "Crusty and musty.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.MadCommander"
+    ]
+  },
+  {
+    "BID": "BID_143_MadCommanderMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Spike Chamber",
+    "ShortDescription": "Back Bling",
+    "Description": "Rusty and trusty.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.MadCommander"
+    ]
+  },
+  {
+    "BID": "BID_142_SamuraiUltra",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Bladed Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Wings with edge.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SamuraiUltra"
+    ]
+  },
+  {
+    "BID": "BID_142_RaptorArcticCamo",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Freezing Point",
+    "ShortDescription": "Back Bling",
+    "Description": "Ice cold.",
+    "GameplayTags": [
+      "Cosmetics.Source.Promo",
+      "Cosmetics.Set.RaptorArcticCamo"
+    ]
+  },
+  {
+    "BID": "BID_141_StreetOpsFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Reaction Tank",
+    "ShortDescription": "Back Bling",
+    "Description": "Pressurized.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetOps"
+    ]
+  },
+  {
+    "BID": "BID_140_StreetOpsMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Response Unit",
+    "ShortDescription": "Back Bling",
+    "Description": "Send a message.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetOps"
+    ]
+  },
+  {
+    "BID": "BID_139_FuzzyBearHalloween",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Goodie Gourd",
+    "ShortDescription": "Back Bling",
+    "Description": "Yum!",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_138_Celestial",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Galactic Disc",
+    "ShortDescription": "Back Bling",
+    "Description": "Light-years ahead of the rest.",
+    "GameplayTags": [
+      "Cosmetics.Set.Celestial",
+      "Cosmetics.Source.Promo"
+    ]
+  },
+  {
+    "BID": "BID_137_EvilCowboy",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Shackled Stone",
+    "ShortDescription": "Back Bling",
+    "Description": "Keep it contained.\r\nReactive: Transforms by dealing damage, or by outliving other players.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Cowgirl",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_135_MuertosFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Calavera",
+    "ShortDescription": "Back Bling",
+    "Description": "Bare bones fashion.\r\nReactive: Glows in the dark",
+    "GameplayTags": [
+      "Cosmetics.Set.Muertos",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_134_MilitaryFashion",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Top Notch",
+    "ShortDescription": "Back Bling",
+    "Description": "Best in class.",
+    "GameplayTags": [
+      "Cosmetics.Source.StarterPack"
+    ]
+  },
+  {
+    "BID": "BID_133_GuanYu",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Loyal Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "Dependable as always.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GuanYu"
+    ]
+  },
+  {
+    "BID": "BID_132_BlackWidowMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Spider Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "Spun from endless strands.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BlackWidow"
+    ]
+  },
+  {
+    "BID": "BID_131_BlackWidowfemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Long Legs",
+    "ShortDescription": "Back Bling",
+    "Description": "Stretch your legs.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BlackWidow"
+    ]
+  },
+  {
+    "BID": "BID_130_VampireMale02",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Coven Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Certified coven couture.",
+    "GameplayTags": [
+      "Cosmetics.Set.Vampire",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_128_PlagueFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Arcanum",
+    "ShortDescription": "Back Bling",
+    "Description": "Perilous & potent.",
+    "GameplayTags": [
+      "Cosmetics.Set.Plague",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_127_PlagueMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Dismal Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Black as night.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Plague"
+    ]
+  },
+  {
+    "BID": "BID_126_DarkBomber",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Dark Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Don't forget to pack an umbrella.",
+    "GameplayTags": [
+      "Cosmetics.Set.DarkBomber",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_125_ScarecrowFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Birdhovel",
+    "ShortDescription": "Back Bling",
+    "Description": "Keep your enemies close.",
+    "GameplayTags": [
+      "Cosmetics.Set.Scarecrow",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_124_ScarecrowMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Hay Nest",
+    "ShortDescription": "Back Bling",
+    "Description": "Hatch a plan.",
+    "GameplayTags": [
+      "Cosmetics.Set.Scarecrow",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_123_FortniteDJ",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Waveform",
+    "ShortDescription": "Back Bling",
+    "Description": "Expertly equalized.",
+    "GameplayTags": [
+      "Cosmetics.Set.FortniteDJ",
+      "Cosmetics.Source.Season6.BattlePass.Free"
+    ]
+  },
+  {
+    "BID": "BID_122_HalloweenTomato",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Night Cloak",
+    "ShortDescription": "Back Bling",
+    "Description": "Stealthy and saucy.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season6.BattlePass.Paid",
+      "Cosmetics.Set.PizzaPit"
+    ]
+  },
+  {
+    "BID": "BID_121_RedRiding",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Fabled Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Nothing lil' about it.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season6.BattlePass.Free",
+      "Cosmetics.Set.RedRiding"
+    ]
+  },
+  {
+    "BID": "BID_120_Werewolf",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Wolfpack",
+    "ShortDescription": "Back Bling",
+    "Description": "Packing extra bite.",
+    "GameplayTags": [
+      "Cosmetics.Set.Werewolf",
+      "Cosmetics.Source.Season6.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_119_VampireFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Dusk Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Sharper than fangs.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season6.BattlePass.Paid",
+      "Cosmetics.Set.Vampire"
+    ]
+  },
+  {
+    "BID": "BID_118_OctoberfestFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Pretzel Protector",
+    "ShortDescription": "Back Bling",
+    "Description": "Pass the mustard.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Octoberfest"
+    ]
+  },
+  {
+    "BID": "BID_117_OctoberfestMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Clockworks",
+    "ShortDescription": "Back Bling",
+    "Description": "What time is it, little llama?\r\nReactive: Makes sound after eliminating an opponent.",
+    "GameplayTags": [
+      "Cosmetics.Set.Octoberfest",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_116_DieselpunkFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Airflow",
+    "ShortDescription": "Back Bling",
+    "Description": "Tuned for turbulence.",
+    "GameplayTags": [
+      "Cosmetics.Set.DieselPunk",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_115_DieselpunkMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Para-Provisions",
+    "ShortDescription": "Back Bling",
+    "Description": "Packed at altitude.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DieselPunk"
+    ]
+  },
+  {
+    "BID": "BID_114_ModernMilitaryRed",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Telemetry",
+    "ShortDescription": "Back Bling",
+    "Description": "Find your bearings.",
+    "GameplayTags": [
+      "Cosmetics.Source.Promo",
+      "Cosmetics.Set.ModernMilitaryRed"
+    ]
+  },
+  {
+    "BID": "BID_113_DarkVikingFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Valkyrie Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Winter winds prevail.",
+    "GameplayTags": [
+      "Cosmetics.Set.DarkViking",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_112_ClownMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Balloon Llama",
+    "ShortDescription": "Back Bling",
+    "Description": "Inflate a friend.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Balloon"
+    ]
+  },
+  {
+    "BID": "BID_111_ClownFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Battle Balloon",
+    "ShortDescription": "Back Bling",
+    "Description": "Where we poppin'?",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Balloon"
+    ]
+  },
+  {
+    "BID": "BID_110_MedicFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Gurney Gear",
+    "ShortDescription": "Back Bling",
+    "Description": "Wheels up.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Medic"
+    ]
+  },
+  {
+    "BID": "BID_109_MedicMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Care Package",
+    "ShortDescription": "Back Bling",
+    "Description": "Surgically precise.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Medic"
+    ]
+  },
+  {
+    "BID": "BID_108_HacivatMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Crafted Carrier",
+    "ShortDescription": "Back Bling",
+    "Description": "Brilliantly bespoke.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Hacivat"
+    ]
+  },
+  {
+    "BID": "BID_108_Blingmale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Cuff Case",
+    "ShortDescription": "Back Bling",
+    "Description": "Always by your side.",
+    "GameplayTags": [
+      "Cosmetics.Set.Bling",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_107_GarageBandFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Keytar",
+    "ShortDescription": "Back Bling",
+    "Description": "The key to harmony.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GarageBand"
+    ]
+  },
+  {
+    "BID": "BID_106_GarageBandMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Kick Drum",
+    "ShortDescription": "Back Bling",
+    "Description": "Drive the beat.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GarageBand"
+    ]
+  },
+  {
+    "BID": "BID_105_GhostPortal",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Ghost Portal",
+    "ShortDescription": "Back Bling",
+    "Description": "I just got a chill.\r\nReactive: Additional FX after eliminating opponents.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Set.SkullTrooper",
+      "Cosmetics.UserFacingFlags.Reactive"
+    ]
+  },
+  {
+    "BID": "BID_104_YellowZip",
+    "DisplayName": "Vintage",
+    "ShortDescription": "Back Bling",
+    "Description": "Lovingly broken in.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_102_Buckles",
+    "DisplayName": "Buckled",
+    "ShortDescription": "Back Bling",
+    "Description": "Buckle up!",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_101_BlingFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Swag Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Take the money and run.",
+    "GameplayTags": [
+      "Cosmetics.Set.Bling",
+      "Cosmetics.Source.StarterPack"
+    ]
+  },
+  {
+    "BID": "BID_100_DarkPaintballer",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Subjugator",
+    "ShortDescription": "Back Bling",
+    "Description": "Quell the competition.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season5.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_099_BlueSamuraiFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Shiro",
+    "ShortDescription": "Back Bling",
+    "Description": "Nyan!",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BlueSamurai"
+    ]
+  },
+  {
+    "BID": "BID_098_BlueSamuraiMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Sashimono",
+    "ShortDescription": "Back Bling",
+    "Description": "Storied sigil.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.BlueSamurai"
+    ]
+  },
+  {
+    "BID": "BID_097_BikerFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Road Flair",
+    "ShortDescription": "Back Bling",
+    "Description": "Built for the road.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Biker"
+    ]
+  },
+  {
+    "BID": "BID_096_BikerMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Road Ready",
+    "ShortDescription": "Back Bling",
+    "Description": "Two-wheel toolkit.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Biker"
+    ]
+  },
+  {
+    "BID": "BID_095_RavenQuillFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Dark Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Swoop in and take the spoils.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Nevermore"
+    ]
+  },
+  {
+    "BID": "BID_093_HippieMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Summer Strummer",
+    "ShortDescription": "Back Bling",
+    "Description": "Jam on.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Hippie"
+    ]
+  },
+  {
+    "BID": "BID_092_FuzzyBearPanda",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Bamboo",
+    "ShortDescription": "Back Bling",
+    "Description": "Fresh and crunchy.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_091_DurrrBurgerHero",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Deep Fried",
+    "ShortDescription": "Back Bling",
+    "Description": "Perfectly greasy.",
+    "GameplayTags": [
+      "Cosmetics.Set.DurrrBurger",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_090_StreetRacerWhiteMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Lane Splitter",
+    "ShortDescription": "Back Bling",
+    "Description": "Cut through the crowd.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.StreetRacerWhite"
+    ]
+  },
+  {
+    "BID": "BID_089_StreetRacerWhiteFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Ignition",
+    "ShortDescription": "Back Bling",
+    "Description": "Start it up.",
+    "GameplayTags": [
+      "Cosmetics.Set.StreetRacerWhite",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_088_SushiChefMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Chef's Choice",
+    "ShortDescription": "Back Bling",
+    "Description": "Perfectly sliced.",
+    "GameplayTags": [
+      "Cosmetics.Set.Sushi",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_087_ExerciseMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Boombox",
+    "ShortDescription": "Back Bling",
+    "Description": "Blast it.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Exercise"
+    ]
+  },
+  {
+    "BID": "BID_085_ModernMilitary",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Paradigm",
+    "ShortDescription": "Back Bling",
+    "Description": "Utility redefined.",
+    "GameplayTags": [
+      "Cosmetics.Set.ModernMilitary",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_084_Birthday2018",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Birthday Cake",
+    "ShortDescription": "Back Bling",
+    "Description": "Piece of cake.",
+    "GameplayTags": [
+      "Cosmetics.Source.Event.Birthday.2018"
+    ]
+  },
+  {
+    "BID": "BID_083_LifeguardMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Rescue Ring",
+    "ShortDescription": "Back Bling",
+    "Description": "Unsinkable.",
+    "GameplayTags": [
+      "Cosmetics.Set.Lifeguard",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_082_ScubaFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Air Tank",
+    "ShortDescription": "Back Bling",
+    "Description": "Catch your breath.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Scuba"
+    ]
+  },
+  {
+    "BID": "BID_081_ScubaMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Diving Tank",
+    "ShortDescription": "Back Bling",
+    "Description": "Breathe easy.",
+    "GameplayTags": [
+      "Cosmetics.Set.Scuba",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_080_StreetRacerCobraMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Bat Attitude",
+    "ShortDescription": "Back Bling",
+    "Description": "Carry a grudge.",
+    "GameplayTags": [
+      "Cosmetics.Set.StreetRacerCobra",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_079_Penguin",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Penguin",
+    "ShortDescription": "Back Bling",
+    "Description": "Flightless fashion."
+  },
+  {
+    "BID": "BID_078_StreetRacerCobraFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Ballistic",
+    "ShortDescription": "Back Bling",
+    "Description": "Locked in.",
+    "GameplayTags": [
+      "Cosmetics.Set.StreetRacerCobra",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_077_WeGame",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Insignia",
+    "ShortDescription": "Back Bling",
+    "Description": "Emblazoned shield."
+  },
+  {
+    "BID": "BID_076_Shark",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Shark Fin",
+    "ShortDescription": "Back Bling",
+    "Description": "Foreboding.",
+    "GameplayTags": [
+      "Cosmetics.Set.Shark",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_075_TacticalBadass",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Uplink",
+    "ShortDescription": "Back Bling",
+    "Description": "Always engaged.",
+    "GameplayTags": [
+      "Cosmetics.Set.AdvancedForces",
+      "Cosmetics.Source.Season5.BattlePass.Free"
+    ]
+  },
+  {
+    "BID": "BID_073_DarkViking",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Frozen Shroud",
+    "ShortDescription": "Back Bling",
+    "Description": "A relic of the ancients.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season5.BattlePass.Paid",
+      "Cosmetics.Set.DarkViking"
+    ]
+  },
+  {
+    "BID": "BID_072_VikingMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Enduring Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Battle-proven.",
+    "GameplayTags": [
+      "Cosmetics.Set.Viking",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_071_VikingFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Rearguard",
+    "ShortDescription": "Back Bling",
+    "Description": "Sturdy guardian.",
+    "GameplayTags": [
+      "Cosmetics.Set.Viking",
+      "Cosmetics.Source.Season5.BattlePass.Paid"
+    ]
+  },
+  {
+    "BID": "BID_070_DecoFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Ventura Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Take initiative.",
+    "GameplayTags": [
+      "Cosmetics.Set.Deco",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_069_DecoMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Venturion Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Take action.",
+    "GameplayTags": [
+      "Cosmetics.Set.Deco",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_068_GumshoeDark",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Cluefinder",
+    "ShortDescription": "Back Bling",
+    "Description": "Follow the clues.",
+    "GameplayTags": [
+      "Cosmetics.Set.Gumshoe",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_067_GumshoeFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Confidential Case",
+    "ShortDescription": "Back Bling",
+    "Description": "Build a case.",
+    "GameplayTags": [
+      "Cosmetics.Set.Gumshoe",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_066_SpeedyRed",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Deflector",
+    "ShortDescription": "Back Bling",
+    "Description": "Change the course of the battle.",
+    "GameplayTags": [
+      "Cosmetics.Set.SpeedyRed",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_065_CarbideBlack",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Destabilizer",
+    "ShortDescription": "Back Bling",
+    "Description": "Embrace the chaos.",
+    "GameplayTags": [
+      "Cosmetics.Set.CarbideBlackFemale",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_064_FuzzyBearInd",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Blasting Cap",
+    "ShortDescription": "Back Bling",
+    "Description": "It's a blast!",
+    "GameplayTags": [
+      "Cosmetics.Set.StarsAndStripes",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_063_CuChulainn",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Crested Cape",
+    "ShortDescription": "Back Bling",
+    "Description": "Cloaked and courageous.",
+    "GameplayTags": [
+      "Cosmetics.Set.Laoch",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_062_Gumshoe",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Evidence Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Forensic fashion.",
+    "GameplayTags": [
+      "Cosmetics.Set.Gumshoe",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_061_CarbideOrange",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Stabilizer",
+    "ShortDescription": "Back Bling",
+    "Description": "Stay in control.",
+    "GameplayTags": [
+      "Cosmetics.Set.CarbideOrangeFemale",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_060_DarkNinja",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Ominous Orb",
+    "ShortDescription": "Back Bling",
+    "Description": "Gaze into infinity.",
+    "GameplayTags": [
+      "Cosmetics.Set.DarkEagle",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_059_WWIIPilot",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Last Gasp",
+    "ShortDescription": "Back Bling",
+    "Description": "Pressurised for high altitude.",
+    "GameplayTags": [
+      "Cosmetics.Set.WWIIPilot",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_058_DarkEagle",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Battle Shroud",
+    "ShortDescription": "Back Bling",
+    "Description": "Shrouded in mystery.",
+    "GameplayTags": [
+      "Cosmetics.Set.DarkEagle",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_057_Visitor",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Offworld Rig",
+    "ShortDescription": "Back Bling",
+    "Description": "Intergalactic original.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season4.BattlePass.Paid",
+      "Cosmetics.Set.Asteroid"
+    ]
+  },
+  {
+    "BID": "BID_055_PSBurnout",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Blue Shift",
+    "ShortDescription": "Back Bling",
+    "Description": "Brilliantly Blue.",
+    "GameplayTags": [
+      "Cosmetics.Source.Platform.PS4"
+    ]
+  },
+  {
+    "BID": "BID_054_JailbirdFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Burgle Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Tools of the trade.",
+    "GameplayTags": [
+      "Cosmetics.Set.Jailbird",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_053_JailbirdMale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Strongbox",
+    "ShortDescription": "Back Bling",
+    "Description": "Get crackin'.",
+    "GameplayTags": [
+      "Cosmetics.Set.Jailbird",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_052_HazmatFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Contagion",
+    "ShortDescription": "Back Bling",
+    "Description": "Infectiously stylish.",
+    "GameplayTags": [
+      "Cosmetics.Set.Hazmat",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_051_Merman",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Mertank",
+    "ShortDescription": "Back Bling",
+    "Description": "Breathe easy.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_050_Hazmat",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Pathogen",
+    "ShortDescription": "Back Bling",
+    "Description": "Pleasantly pathological.",
+    "GameplayTags": [
+      "Cosmetics.Set.Hazmat",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_049_TacticalWoodland",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "True North",
+    "ShortDescription": "Back Bling",
+    "Description": "Find your way.",
+    "GameplayTags": [
+      "Cosmetics.Set.AdvancedForces"
+    ]
+  },
+  {
+    "BID": "BID_048_Graffiti",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Tag Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Paint the town red... and white... and purple...",
+    "GameplayTags": [
+      "Cosmetics.Set.AerosolAssassins",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_045_TacticalJungle",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Standard Issue",
+    "ShortDescription": "Back Bling",
+    "Description": "Prepared for anything.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season4.BattlePass.Free",
+      "Cosmetics.Set.AdvancedForces",
+      "phoebe.cosmetic.BID_045_TacticalJungle"
+    ]
+  },
+  {
+    "BID": "BID_044_Robo",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Steelcast",
+    "ShortDescription": "Back Bling",
+    "Description": "Precision welded.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_043_Pizza",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Special Delivery",
+    "ShortDescription": "Back Bling",
+    "Description": "Keep the change.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.PizzaPit"
+    ]
+  },
+  {
+    "BID": "BID_042_Fishhead",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Fish Tank",
+    "ShortDescription": "Back Bling",
+    "Description": "Do not tap on glass!",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SpaceExplorers"
+    ]
+  },
+  {
+    "BID": "BID_041_PajamaParty",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Hatchling",
+    "ShortDescription": "Back Bling",
+    "Description": "Clever bag.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DinoGuard"
+    ]
+  },
+  {
+    "BID": "BID_040_Wukong",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Royale Flags",
+    "ShortDescription": "Back Bling",
+    "Description": "Let your royale flag fly.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Wukong"
+    ]
+  },
+  {
+    "BID": "BID_039_SpaceBlackFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Dark Void",
+    "ShortDescription": "Back Bling",
+    "Description": "Stellar.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SpaceExplorers"
+    ]
+  },
+  {
+    "BID": "BID_038_BunnyFemale",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Eggshell",
+    "ShortDescription": "Back Bling",
+    "Description": "Well hidden.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.PastelPatrol"
+    ]
+  },
+  {
+    "BID": "BID_036_Raven",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Iron Cage",
+    "ShortDescription": "Back Bling",
+    "Description": "There is no escape.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Nevermore"
+    ]
+  },
+  {
+    "BID": "BID_035_Scathach",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Buckler",
+    "ShortDescription": "Back Bling",
+    "Description": "A battle-tested shield.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Laoch"
+    ]
+  },
+  {
+    "BID": "BID_034_RockerPunk",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Six String",
+    "ShortDescription": "Back Bling",
+    "Description": "Tuned for mayhem.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Volume11"
+    ]
+  },
+  {
+    "BID": "BID_033_FounderFemale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Skirmish",
+    "ShortDescription": "Back Bling",
+    "Description": "Stay in the fight!",
+    "GameplayTags": [
+      "Cosmetics.Source.Granted.Founders"
+    ]
+  },
+  {
+    "BID": "BID_032_FounderMale",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Pursuit",
+    "ShortDescription": "Back Bling",
+    "Description": "On the trail.",
+    "GameplayTags": [
+      "Cosmetics.Source.Granted.Founders"
+    ]
+  },
+  {
+    "BID": "BID_031_Dinosaur",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Scaly",
+    "ShortDescription": "Back Bling",
+    "Description": "Rough around the edges.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DinoGuard"
+    ]
+  },
+  {
+    "BID": "BID_030_TacticalRogue",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Catalyst",
+    "ShortDescription": "Back Bling",
+    "Description": "Rugged and ready.",
+    "GameplayTags": [
+      "Cosmetics.Source.StarterPack"
+    ]
+  },
+  {
+    "BID": "BID_029_RetroGrey",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Backup Plan",
+    "ShortDescription": "Back Bling",
+    "Description": "Leave a wake of destruction.",
+    "GameplayTags": [
+      "Cosmetics.Source.Granted.Twitch"
+    ]
+  },
+  {
+    "BID": "BID_028_SpaceBlack",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Dark Matter",
+    "ShortDescription": "Back Bling",
+    "Description": "Theoretical fashion.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season3.BattlePass.Paid",
+      "Cosmetics.Set.SpaceExplorers"
+    ]
+  },
+  {
+    "BID": "BID_027_Scavenger",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Rust Bucket",
+    "ShortDescription": "Back Bling",
+    "Description": "Got a screw loose? It's probably in here.",
+    "GameplayTags": [
+      "Cosmetics.Set.StormScavenger"
+    ]
+  },
+  {
+    "BID": "BID_026_Brite",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Brite Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Don't forget to pack a smile!",
+    "GameplayTags": [
+      "Cosmetics.Set.SunshineAndRainbows",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_025_Tactical",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Precision",
+    "ShortDescription": "Back Bling",
+    "Description": "Tactical and Practical.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season3.BattlePass.Free",
+      "Cosmetics.Set.BlackVector"
+    ]
+  },
+  {
+    "BID": "BID_024_Space",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Astro",
+    "ShortDescription": "Back Bling",
+    "Description": "Backpack is nominal.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season3.BattlePass.Paid",
+      "Cosmetics.Set.SpaceExplorers"
+    ]
+  },
+  {
+    "BID": "BID_023_Pinkbear",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Cuddle Bow",
+    "ShortDescription": "Back Bling",
+    "Description": "Hugs!",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RoyaleHearts"
+    ]
+  },
+  {
+    "BID": "BID_022_Cupid",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Love Wings",
+    "ShortDescription": "Back Bling",
+    "Description": "Spread the love.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.RoyaleHearts"
+    ]
+  },
+  {
+    "BID": "BID_021_SkiGirl_KOR",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mogul Ski Bag (KOR)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_019_SkiGirl_GER",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mogul Ski Bag (GER)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_018_SkiGirl_FRA",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mogul Ski Bag (FRA)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_017_SkiGirl_GBR",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mogul Ski Bag (GBR)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_016_SkiGirl_CAN",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mogul Ski Bag (CAN)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_015_SkiGirl_USA",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mogul Ski Bag (USA)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_014_SkiGirl",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Mogul Ski Bag",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_013_SkiDude_KOR",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Alpine Accessories (KOR)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_011_SkiDude_GER",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Alpine Accessories (GER)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_010_SkiDude_FRA",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Alpine Accessories (FRA)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_009_SkiDude_GBR",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Alpine Accessories (GBR)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_008_SkiDude_CAN",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Alpine Accessories (CAN)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_007_SkiDude_USA",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Alpine Accessories (USA)",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_006_SkiDude",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Alpine Accessories",
+    "ShortDescription": "Back Bling",
+    "Description": "Ski combat readiness backpack.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.WinterSki"
+    ]
+  },
+  {
+    "BID": "BID_004_BlackKnight",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Black Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "The Black Knight's legendary shield.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season2.BattlePass.Paid",
+      "Cosmetics.Set.FortKnights"
+    ]
+  },
+  {
+    "BID": "BID_003_RedKnight",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Red Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "The Red Knight's legendary shield.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.FortKnights"
+    ]
+  },
+  {
+    "BID": "BID_002_RoyaleKnight",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Royale Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "A royal shield.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season2.BattlePass.Paid",
+      "Cosmetics.Set.FortKnights"
+    ]
+  },
+  {
+    "BID": "BID_001_BlueSquire",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Squire Shield",
+    "ShortDescription": "Back Bling",
+    "Description": "A trusty shield.",
+    "GameplayTags": [
+      "Cosmetics.Source.Season2.BattlePass.Paid",
+      "Cosmetics.Set.FortKnights"
+    ]
+  },
+  {
+    "BID": "BID_373_HauntLensFlare",
+    "Rarity": "EFortRarity::Legendary",
+    "DisplayName": "Set_04_AA",
+    "ShortDescription": "Back Bling",
+    "Description": "Set_04_AB",
+    "GameplayTags": [
+      "Cosmetics.Set.ZeroPoint",
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_382_DarkDinoMale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Dark Scaly",
+    "ShortDescription": "Back Bling",
+    "Description": "A little dark around the edges.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Set.DinoGuard"
+    ]
+  },
+  {
+    "BID": "BID_383_DarkDinoFemale",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Dark Hatchling",
+    "ShortDescription": "Back Bling",
+    "Description": "A mystery from prehistory.",
+    "GameplayTags": [
+      "Cosmetics.UserFacingFlags.HasVariants",
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.DinoGuard"
+    ]
+  },
+  {
+    "BID": "BID_384_NoshHunter",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Containment Unit",
+    "ShortDescription": "Back Bling",
+    "Description": "Perfectly stabilized for Nosh entrapment.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GardenBones"
+    ]
+  },
+  {
+    "BID": "BID_385_Nosh",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Nosh",
+    "ShortDescription": "Back Bling",
+    "Description": "The snack that bites back.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GardenBones"
+    ]
+  },
+  {
+    "BID": "BID_389_GoatRobe",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Illusion Rune",
+    "ShortDescription": "Back Bling",
+    "Description": "Make them see.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.Witch"
+    ]
+  },
+  {
+    "BID": "BID_392_Freak",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Council of Frogs",
+    "ShortDescription": "Back Bling",
+    "Description": "Grant us wisdom. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.FrighteningOddity"
+    ]
+  },
+  {
+    "BID": "BID_393_GhoulTrooper",
+    "DisplayName": "Bear Brained",
+    "ShortDescription": "Back Bling",
+    "Description": "Not so cute anymore.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_394_Mastermind",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Ooze Chamber",
+    "ShortDescription": "Back Bling",
+    "Description": "Contain yourself.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.GardenBones"
+    ]
+  },
+  {
+    "BID": "BID_395_Phantom",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Time Keeper",
+    "ShortDescription": "Back Bling",
+    "Description": "Time is running out.",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.Set.SpookyOath",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  },
+  {
+    "BID": "BID_396_RaptorGlow",
+    "Rarity": "EFortRarity::Epic",
+    "DisplayName": "Back-o-lantern",
+    "ShortDescription": "Back Bling",
+    "Description": "Share a spooky smile. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop"
+    ]
+  },
+  {
+    "BID": "BID_400_HalloweenAlt",
+    "Rarity": "EFortRarity::Rare",
+    "DisplayName": "Grinning Ghoul",
+    "ShortDescription": "Back Bling",
+    "Description": "Gleaming grill included. ",
+    "GameplayTags": [
+      "Cosmetics.Source.ItemShop",
+      "Cosmetics.UserFacingFlags.HasVariants"
+    ]
+  }
+]

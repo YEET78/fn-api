@@ -1,0 +1,10 @@
+{
+"Pattern" : "pattern",
+"ClothingColor" : "clothing_color",
+"JerseyColor" : "jersey_color",
+"Parts" : "parts",
+"Progressive" : "progressive",
+"Particle" : "particle",
+"Material" : "material",
+"Emissive" : "emissive"
+}

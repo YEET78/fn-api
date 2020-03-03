@@ -1,0 +1,17 @@
+{
+  "COLOR": "Material",
+  "REPRESENTING_COUNTRY": "JerseyColor",
+  "PATTERN": "Pattern",
+  "STYLE": "Progressive",
+  "HAIRSTYLE": "Parts",
+  "STAGE": "Progressive",
+  "HEAD_DISPLAY": "Particle",
+  "HEADGEAR": "Parts",
+  "SECONDARY_COLOR": "Particle",
+  "CALL_SIGN": "Parts",
+  "CLOTHING": "ClothingColor",
+  "DRAGON_COLOR": "Particle",
+  "VISOR": "Particle",
+  "CLOTHING_COLOR": "ClothingColor",
+  "LIGHT_COLOR": "Emissive"
+}

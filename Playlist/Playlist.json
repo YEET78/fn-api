@@ -1,0 +1,1556 @@
+[
+  {
+    "DisplayName": "Apollo Solos",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Intro_Apollo_PastPlayer"
+  },
+  {
+    "DisplayName": "Apollo Solos",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Intro_Apollo_NewPlayer"
+  },
+  {
+    "DisplayName": "Apollo Solos",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Intro_Apollo_CurrentPlayer"
+  },
+  {
+    "DisplayName": "Tutorial",
+    "SubGame": null,
+    "Description": "Learn the game's basics!",
+    "PlaylistName": "Playlist_Tutorial"
+  },
+  {
+    "DisplayName": "Solo",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_DefaultSolo"
+  },
+  {
+    "DisplayName": "Duos",
+    "SubGame": null,
+    "Description": "Pair up with a buddy and take everyone else down.",
+    "PlaylistName": "Playlist_Bots_DefaultDuo"
+  },
+  {
+    "DisplayName": "Close Encounters 50's",
+    "SubGame": "Squads",
+    "Description": "Two teams of 50 in close quarters combat with Shotguns & Jetpacks! To use a jetpack, double-tap the jump button to take off. Keep the button held down to apply thrust. Make sure to land before it runs out of fuel!",
+    "PlaylistName": "Playlist_Close"
+  },
+  {
+    "DisplayName": "50v50",
+    "SubGame": "Squads",
+    "Description": "Two teams of fifty players fight to the finish! This mode has extra loot and resources, a storm that is more lethal, and a shorter match length time than the standard Battle Royale modes. Each team drops from their own Battle Bus. Get in and help your team to victory!",
+    "PlaylistName": "Playlist_50v50"
+  },
+  {
+    "DisplayName": "Solid Gold 50s",
+    "SubGame": "Squads",
+    "Description": "Two teams of fifty players fight to the finish! This version of the mode only has Legendary weapons. Gold guns will be everywhere, along with extra loot and resources, a storm that is more lethal, and a shorter match length time than the standard Battle Royale modes. Each team drops from their own Battle Bus. Get in and help your team to victory!",
+    "PlaylistName": "Playlist_50v50SAU"
+  },
+  {
+    "DisplayName": "High Explosive 50's",
+    "SubGame": "Squads",
+    "Description": "Two teams of fifty players fight to the finish! This version of the mode only has explosive weapons, along with extra loot and resources, a storm that is more lethal, and a shorter match length time than the standard Battle Royale modes. Each team drops from their own Battle Bus. Get in and help your team to victory!",
+    "PlaylistName": "Playlist_50v50HE"
+  },
+  {
+    "DisplayName": "Driftin'",
+    "SubGame": "Squads",
+    "Description": "Land near a Red Supply Drop, grab a Driftboard and some weapons, meet up with your team and race to eliminate the enemies. Last team standing wins!",
+    "PlaylistName": "Playlist_Hover"
+  },
+  {
+    "DisplayName": "Automatics",
+    "SubGame": "Solo",
+    "Description": "The only weapons in the game are the automatic firing ones. Spray and pray!",
+    "PlaylistName": "Playlist_Auto_Solo"
+  },
+  {
+    "DisplayName": "Food Fight: Deep Fried",
+    "SubGame": "Squads",
+    "Description": "Food Fight: Deep Fried. Two teams on either side of the map. A huge barrier down the middle. Lava steadily rising up from below. Build a fort to protect your restaurant mascot. When the Barrier lowers, destroy the enemy's mascot and then eliminate the remaining enemies to win the match!",
+    "PlaylistName": "Playlist_Barrier_16_B_Lava"
+  },
+  {
+    "DisplayName": "Leave None Behind",
+    "SubGame": "Solo",
+    "Description": "All players have a slurp effect granting health and shields over time as long as all members of their team are alive. \r\n\r\nIf players are knocked down but not out they become invulnerable to damage, but the heal over time effect that their teammates have will change to damage over time.",
+    "PlaylistName": "Playlist_Behind_Solo"
+  },
+  {
+    "DisplayName": "Infinite Blades",
+    "SubGame": "Squads",
+    "Description": null,
+    "PlaylistName": "Playlist_Blades_Squads"
+  },
+  {
+    "DisplayName": "The Blues",
+    "SubGame": "Duos",
+    "Description": "All weapon drops are Rare. Storm circles move a bit more quickly. Building material farming rates are increased. ",
+    "PlaylistName": "Playlist_Blue_Duos"
+  },
+  {
+    "DisplayName": "Use With Care",
+    "SubGame": "Squads",
+    "Description": "Players are granted building materials at the start of the match without the ability to gain more throughout the match. Make what you are given at the start last because that's all you get!",
+    "PlaylistName": "Playlist_Care_Squads"
+  },
+  {
+    "DisplayName": "Creative",
+    "SubGame": null,
+    "Description": "Design games with friends, race around your island or build your dream Fortnite. Your island. Your friends. Your rules.",
+    "PlaylistName": "Playlist_PlaygroundV2"
+  },
+  {
+    "DisplayName": "Creative Free For All",
+    "SubGame": null,
+    "Description": "Play community created free for all games.",
+    "PlaylistName": "Playlist_Creative_FFA_v1"
+  },
+  {
+    "DisplayName": "Creative 16 Player 8v8",
+    "SubGame": null,
+    "Description": "Play creative 16 Player 8v8",
+    "PlaylistName": "Playlist_Creative_LTM_8v8"
+  },
+  {
+    "DisplayName": "Creative 16 Player FFA",
+    "SubGame": null,
+    "Description": "Play creative 16 Player free for all",
+    "PlaylistName": "Playlist_Creative_LTM_16_FFA"
+  },
+  {
+    "DisplayName": "Creative 8 Squad Battle 3",
+    "SubGame": null,
+    "Description": "Play 8 squad battle 3.",
+    "PlaylistName": "Playlist_Creative_LTM_40_v3"
+  },
+  {
+    "DisplayName": "Creative Solo 3",
+    "SubGame": null,
+    "Description": "Play creative solo 3",
+    "PlaylistName": "Playlist_Creative_LTM_Solo"
+  },
+  {
+    "DisplayName": "Creative 4Player FFA 2",
+    "SubGame": null,
+    "Description": "Play creative 4Player free for all 2",
+    "PlaylistName": "Playlist_Creative_LTM_Squad_FFA"
+  },
+  {
+    "DisplayName": "Creative Map 100",
+    "SubGame": null,
+    "Description": "Play community created map for 100 players.",
+    "PlaylistName": "Playlist_Creative_Map"
+  },
+  {
+    "DisplayName": "Creative Map 60",
+    "SubGame": null,
+    "Description": "Play community created map for 60 players.",
+    "PlaylistName": "Playlist_Creative_Map"
+  },
+  {
+    "DisplayName": "Puppy Hugs 40",
+    "SubGame": null,
+    "Description": "Hug your neighbor",
+    "PlaylistName": "Playlist_Creative_PuppyHugs"
+  },
+  {
+    "DisplayName": "World Run",
+    "SubGame": null,
+    "Description": "Created by Game Jam Hollywood Creators for the Fortnite World Cup Creative Finals.\r\n\r\nPlayers race to complete the course. The first team to collect 30 coins wins!\r\n\r\nDip, dodge and duck through treacherous traps, lava pits and more to become the world's fastest lane runner.",
+    "PlaylistName": "Playlist_Creative_Squad_Battle_16_B"
+  },
+  {
+    "DisplayName": "Creative Team Battle",
+    "SubGame": null,
+    "Description": "Play community created team battles.",
+    "PlaylistName": "Playlist_Creative_TDM_v1"
+  },
+  {
+    "DisplayName": "Zone Wars: Downhill River",
+    "SubGame": null,
+    "Description": "Code enigma\r\nS10 Enigmas Downhill River Zonewars X\r\n\r\nA simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nStay out of the storm as you move downhill through a river in this original style Zone Wars island. Community launch pads and a consistent Storm path allows for familiarity after a few rounds.\r\n\r\nCreated by Enigma.",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_DH"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Duos",
+    "Description": "Pair up with a buddy and take everyone else down.",
+    "PlaylistName": "Playlist_Deimos_Duo_Winter"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Solo",
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Deimos_Solo_WinterCN"
+  },
+  {
+    "DisplayName": "Floor Is Lava",
+    "SubGame": "Duos",
+    "Description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!",
+    "PlaylistName": "Playlist_Fill_Duos"
+  },
+  {
+    "DisplayName": "Final Fight",
+    "SubGame": "2 Teams of 50",
+    "Description": "Final Fight is Battle Royale with an alternate ending! Instead of the storm circles closing all the way in, they will stop part way through the match, triggering a Final Countdown. The team with the most players alive at the end of the Countdown wins the Victory Royale! ",
+    "PlaylistName": "Playlist_Final"
+  },
+  {
+    "DisplayName": "Solo",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Fortnite_B_Solo"
+  },
+  {
+    "DisplayName": "Squads",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Fortnite_B_Squads_G"
+  },
+  {
+    "DisplayName": "Squads",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Ox_Fortnite_B_Squads"
+  },
+  {
+    "DisplayName": "Barebones",
+    "SubGame": "Duos",
+    "Description": "This mode has the map, compass, storm timer and many other elements of the Heads Up Display turned off. Determining who is friendly and who isn't during firefights and staying away from the storm will be key to picking up a Victory Royale.!",
+    "PlaylistName": "Playlist_Hard_Duos"
+  },
+  {
+    "DisplayName": "Heavy Metal",
+    "SubGame": "Solo",
+    "Description": "In this mode, only the \"Heavy\" weapon variants can be found in loot boxes. Get your loadout and get in the fight!",
+    "PlaylistName": "Playlist_Heavy_Solo"
+  },
+  {
+    "DisplayName": "Fly Explosives",
+    "SubGame": "Solo",
+    "Description": "This mode combines the explosive fun of the High Explosives LTM and the vaulted Limited Time Item Jetpack. Take to the skies and blast everyone else back to the lobby!",
+    "PlaylistName": "Playlist_FlyExplosives_Solo"
+  },
+  {
+    "DisplayName": "High Explosives",
+    "SubGame": "Solo",
+    "Description": "Battle Royale with Explosive weapons only! 'Splode all of the enemies back to the lobby to earn the Victory Royale!",
+    "PlaylistName": "Playlist_HighExplosives_Solo"
+  },
+  {
+    "DisplayName": "Fortlite",
+    "SubGame": "Solo",
+    "Description": null,
+    "PlaylistName": "Playlist_Lite_Solo"
+  },
+  {
+    "DisplayName": "One Shot",
+    "SubGame": "Solo",
+    "Description": "Low Gravity. Every player has 50 health. Sniper weapons are the only weapon, Bandages are the only healing item. Jump high and aim well!",
+    "PlaylistName": "Playlist_Low_Solo"
+  },
+  {
+    "DisplayName": "The End",
+    "SubGame": null,
+    "Description": null,
+    "PlaylistName": "Playlist_Music_Med"
+  },
+  {
+    "DisplayName": "Builder's Paradise",
+    "SubGame": "Squads",
+    "Description": "All player-built structures have drastically increased health, but a true builder doesn't break down walls, they edit through them! Neutral editing has been turned on to allow players to edit structures no matter which team placed them. And what kind of paradise would keep a builder short on supplies? Building material drop rates are increased to allow as much building as desired!",
+    "PlaylistName": "Playlist_Paradise_Squads"
+  },
+  {
+    "DisplayName": "Phoebe PvsB",
+    "SubGame": "Solos",
+    "Description": "All against Player Solos",
+    "PlaylistName": "Playlist_Phoebe_Solo_PvsB_Apollo"
+  },
+  {
+    "DisplayName": "Purple Reign",
+    "SubGame": "Squads",
+    "Description": "All weapon drops are Epic. Storm circles move a bit more quickly. Building material farming rates are increased. ",
+    "PlaylistName": "Playlist_Purple_Squads"
+  },
+  {
+    "DisplayName": "Squad Rumble",
+    "SubGame": "Squads",
+    "Description": "Fight for the Victory Royale in an action-packed mode where the first squad to get the target number of eliminations wins! \r\n\r\nRespawn on elimination is ON for the entire match. Glider items with 50 charges will automatically be added to everyone's inventory. ",
+    "PlaylistName": "Playlist_Respawn_Squads"
+  },
+  {
+    "DisplayName": "Arena",
+    "SubGame": "Squads",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn Hype by either achieving high placements or eliminating opponents.  As you gain Hype, you'll compete against tougher opponents with similar skill level.",
+    "PlaylistName": "Playlist_ShowdownAlt_Squads"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Duos",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownTesting_Duos"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Duos",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownTournament_Duos"
+  },
+  {
+    "DisplayName": "Slide",
+    "SubGame": "Squads",
+    "Description": "Ice blocks on everyone's feet, infinite ammo Grapplers in everyone's inventory - a recipe for a slippery good time!",
+    "PlaylistName": "Playlist_Slide_Squads"
+  },
+  {
+    "DisplayName": "Sniper Shootout",
+    "SubGame": "Squads",
+    "Description": "Ready, aim, fire! Sniper weapons only. No reviving - get downed and it's back to the lobby. ",
+    "PlaylistName": "Playlist_Snipers"
+  },
+  {
+    "DisplayName": "Solid Gold",
+    "SubGame": "Solo",
+    "Description": "All weapon drops are Legendary!",
+    "PlaylistName": "Playlist_SolidGold_Solo"
+  },
+  {
+    "DisplayName": "Strategic Structures",
+    "SubGame": "Solo",
+    "Description": "Think before you place is the name of the game. Stone and metal wall health has been increased but the resource caps and resource farming rates have been reduced.",
+    "PlaylistName": "Playlist_Strategic_Solo"
+  },
+  {
+    "DisplayName": "Loadout Swap",
+    "SubGame": "Squads",
+    "Description": "All players gets a new loadout that continues to change through the course of a match. Compete to be the last one standing, and prove you are the best with a variety of weapons!",
+    "PlaylistName": "Playlist_Swap_Squads"
+  },
+  {
+    "DisplayName": "Tank Battle",
+    "SubGame": "Solo",
+    "Description": "Player health and shields drastically increased. Healing items removed and replaced with siphon (health granted on elimination). Let the best tank win!",
+    "PlaylistName": "Playlist_Tank_Solo"
+  },
+  {
+    "DisplayName": "Trios",
+    "SubGame": null,
+    "Description": "Classic Battle Royale with Three-Person Squads.",
+    "PlaylistName": "Playlist_Trios"
+  },
+  {
+    "DisplayName": "Siphon",
+    "SubGame": "Duos",
+    "Description": "All healing items have been removed in this mode. The only way to gain health or shields is to eliminate your opponents!",
+    "PlaylistName": "Playlist_Vamp_Duo"
+  },
+  {
+    "DisplayName": "Bounty",
+    "SubGame": "Squads",
+    "Description": "You're tough but not unstoppable, if you are eliminated three times you are out for good. \r\n\r\nStay alive and collect gold tokens by eliminating the other bounty hunters. The first team to reach the required token count wins, but be careful how far ahead you get - token leaders are marked on the map for all to see.",
+    "PlaylistName": "Playlist_Bounty_Squads"
+  },
+  {
+    "DisplayName": "Wild West",
+    "SubGame": "Solo",
+    "Description": "Fight for the Victory Royale using a limited set of weapons and items such as Hunting Rifles, Shotguns and Dynamite. This town ain't big enough for the hundred of us!",
+    "PlaylistName": "Playlist_WW_Solo"
+  },
+  {
+    "DisplayName": "Wild West",
+    "SubGame": "Squads",
+    "Description": "Fight for the Victory Royale using a limited set of weapons and items such as Hunting Rifles, Shotguns and Dynamite. This town ain't big enough for the hundred of us!",
+    "PlaylistName": "Playlist_WW_Squads"
+  },
+  {
+    "DisplayName": "Wild West",
+    "SubGame": "Duos",
+    "Description": "Fight for the Victory Royale using a limited set of weapons and items such as Hunting Rifles, Shotguns and Dynamite. This town ain't big enough for the hundred of us!",
+    "PlaylistName": "Playlist_WW_Duos"
+  },
+  {
+    "DisplayName": "Bounty",
+    "SubGame": "Solo",
+    "Description": "You're tough but not unstoppable, if you are eliminated three times you are out for good. \r\n\r\nStay alive and collect gold tokens by eliminating the other bounty hunters. The first team to reach the required token count wins, but be careful how far ahead you get - token leaders are marked on the map for all to see.",
+    "PlaylistName": "Playlist_Bounty_Solo"
+  },
+  {
+    "DisplayName": "Bounty",
+    "SubGame": "Duos",
+    "Description": "You're tough but not unstoppable, if you are eliminated three times you are out for good. \r\n\r\nStay alive and collect gold tokens by eliminating the other bounty hunters. The first team to reach the required token count wins, but be careful how far ahead you get - token leaders are marked on the map for all to see.",
+    "PlaylistName": "Playlist_Bounty_Duos"
+  },
+  {
+    "DisplayName": "Siphon",
+    "SubGame": "Squads",
+    "Description": "All healing items have been removed in this mode. The only way to gain health or shields is to eliminate your opponents!",
+    "PlaylistName": "Playlist_Vamp_Squad"
+  },
+  {
+    "DisplayName": "Siphon",
+    "SubGame": "Solo",
+    "Description": "All healing items have been removed in this mode. The only way to gain health or shields is to eliminate your opponents!",
+    "PlaylistName": "Playlist_Vamp_Solo"
+  },
+  {
+    "DisplayName": "Unvaulted",
+    "SubGame": "Squads",
+    "Description": "Battle Royale gameplay with a limited set of weapons made up entirely of items that are vaulted in the standard modes. ",
+    "PlaylistName": "Playlist_Unvaulted_Squads"
+  },
+  {
+    "DisplayName": "Unvaulted",
+    "SubGame": "Solo",
+    "Description": "Battle Royale gameplay with a limited set of weapons made up entirely of items that are vaulted in the standard modes. ",
+    "PlaylistName": "Playlist_Unvaulted_Solo"
+  },
+  {
+    "DisplayName": "Unvaulted",
+    "SubGame": "Duos",
+    "Description": "Battle Royale gameplay with a limited set of weapons made up entirely of items that are vaulted in the standard modes. ",
+    "PlaylistName": "Playlist_Unvaulted_Duos"
+  },
+  {
+    "DisplayName": "Catch!",
+    "SubGame": "Squads",
+    "Description": "In this mode, all guns have been removed. The only weapons are grenades and other items that can be thrown or tossed. Get in there and throw the enemies back to the lobby!",
+    "PlaylistName": "Playlist_Toss_Squads"
+  },
+  {
+    "DisplayName": "Catch!",
+    "SubGame": "Solo",
+    "Description": "In this mode, all guns have been removed. The only weapons are grenades and other items that can be thrown or tossed. Get in there and throw the enemies back to the lobby!",
+    "PlaylistName": "Playlist_Toss_Solo"
+  },
+  {
+    "DisplayName": "Catch!",
+    "SubGame": "Duos",
+    "Description": "In this mode, all guns have been removed. The only weapons are grenades and other items that can be thrown or tossed. Get in there and throw the enemies back to the lobby!",
+    "PlaylistName": "Playlist_Toss_Duos"
+  },
+  {
+    "DisplayName": "Tank Battle",
+    "SubGame": "Squads",
+    "Description": "Player health and shields drastically increased. Healing items removed and replaced with siphon (health granted on elimination). Let the best tank win!",
+    "PlaylistName": "Playlist_Tank_Squads"
+  },
+  {
+    "DisplayName": "Tank Battle",
+    "SubGame": "Duos",
+    "Description": "Player health and shields drastically increased. Healing items removed and replaced with siphon (health granted on elimination). Let the best tank win!",
+    "PlaylistName": "Playlist_Tank_Duos"
+  },
+  {
+    "DisplayName": "Sword Fight",
+    "SubGame": "Squads",
+    "Description": "Treasure chests contain Epic or better weapons as well as the occasional Infinity Blade! Fight your opponents to find out who is worthy of the Blade... and who is not.",
+    "PlaylistName": "Playlist_Sword_Squads"
+  },
+  {
+    "DisplayName": "Sword Fight",
+    "SubGame": "Solo",
+    "Description": "Treasure chests contain Epic or better weapons as well as the occasional Infinity Blade! Fight your opponents to find out who is worthy of the Blade... and who is not.",
+    "PlaylistName": "Playlist_Sword_Solo"
+  },
+  {
+    "DisplayName": "Sword Fight",
+    "SubGame": "Duos",
+    "Description": "Treasure chests contain Epic or better weapons as well as the occasional Infinity Blade! Fight your opponents to find out who is worthy of the Blade... and who is not.",
+    "PlaylistName": "Playlist_Sword_Duos"
+  },
+  {
+    "DisplayName": "Loadout Swap",
+    "SubGame": "Squads",
+    "Description": "At the start of the match, all players are granted a weapon loadout. During the match, everyone's loadout will switch over time. \r\n\r\nCompete to have the most eliminations, and prove you are the best with a variety of weapons!",
+    "PlaylistName": "Playlist_Swap_Squads_Respawn"
+  },
+  {
+    "DisplayName": "Loadout Swap",
+    "SubGame": "Solo",
+    "Description": "At the start of the match, all players are granted a weapon loadout. During the match, everyone's loadout will switch over time. \r\n\r\nCompete to have the most eliminations, and prove you are the best with a variety of weapons!",
+    "PlaylistName": "Playlist_Swap_Solo_Respawn"
+  },
+  {
+    "DisplayName": "Loadout Swap",
+    "SubGame": "Solo",
+    "Description": "All players gets a new loadout that continues to change through the course of a match. Compete to be the last one standing, and prove you are the best with a variety of weapons!",
+    "PlaylistName": "Playlist_Swap_Solo"
+  },
+  {
+    "DisplayName": "Loadout Swap",
+    "SubGame": "Duos",
+    "Description": "At the start of the match, all players are granted a weapon loadout. During the match, everyone's loadout will switch over time. \r\n\r\nCompete to have the most eliminations, and prove you are the best with a variety of weapons!",
+    "PlaylistName": "Playlist_Swap_Duos_Respawn"
+  },
+  {
+    "DisplayName": "Loadout Swap",
+    "SubGame": "Duos",
+    "Description": "All players gets a new loadout that continues to change through the course of a match. Compete to be the last one standing, and prove you are the best with a variety of weapons!",
+    "PlaylistName": "Playlist_Swap_Duos"
+  },
+  {
+    "DisplayName": "Strategic Structures",
+    "SubGame": "Squads",
+    "Description": "Think before you place is the name of the game. Stone and metal wall health has been increased but the resource caps and resource farming rates have been reduced.",
+    "PlaylistName": "Playlist_Strategic_Squads"
+  },
+  {
+    "DisplayName": "Strategic Structures",
+    "SubGame": "Duos",
+    "Description": "Think before you place is the name of the game. Stone and metal wall health has been increased but the resource caps and resource farming rates have been reduced.",
+    "PlaylistName": "Playlist_Strategic_Duos"
+  },
+  {
+    "DisplayName": "Steady Storm",
+    "SubGame": "Squads",
+    "Description": "The storm absolutely will... not... stop. Ever!",
+    "PlaylistName": "Playlist_Steady_Squads"
+  },
+  {
+    "DisplayName": "Steady Storm",
+    "SubGame": "Solo",
+    "Description": "The storm absolutely will... not... stop. Ever!",
+    "PlaylistName": "Playlist_Steady_Solo"
+  },
+  {
+    "DisplayName": "Steady Storm",
+    "SubGame": "Duos",
+    "Description": "The storm absolutely will... not... stop. Ever!",
+    "PlaylistName": "Playlist_Steady_Duos"
+  },
+  {
+    "DisplayName": "Solid Gold",
+    "SubGame": "Squads",
+    "Description": "All weapon drops are Legendary!",
+    "PlaylistName": "Playlist_SolidGold_Squads"
+  },
+  {
+    "DisplayName": "Solid Gold",
+    "SubGame": "Duos",
+    "Description": "All weapon drops are Legendary!",
+    "PlaylistName": "Playlist_SolidGold_Duos"
+  },
+  {
+    "DisplayName": "Soaring Squads",
+    "SubGame": null,
+    "Description": "Classic Battle Royale with gliders that can be re-deployed by pressing Jump when falling from large heights.",
+    "PlaylistName": "Playlist_Soaring_Squads"
+  },
+  {
+    "DisplayName": "Soaring Solos",
+    "SubGame": null,
+    "Description": "Classic Battle Royale with gliders that can be re-deployed by pressing Jump when falling from large heights.",
+    "PlaylistName": "Playlist_Soaring_Solo"
+  },
+  {
+    "DisplayName": "Soaring Duos",
+    "SubGame": null,
+    "Description": "Classic Battle Royale with gliders that can be re-deployed by pressing Jump when falling from large heights.",
+    "PlaylistName": "Playlist_Soaring_Duos"
+  },
+  {
+    "DisplayName": "Sniper Shootout",
+    "SubGame": "Solo",
+    "Description": "Ready, aim, fire! Sniper only.",
+    "PlaylistName": "Playlist_Snipers_Solo"
+  },
+  {
+    "DisplayName": "Sniper Shootout",
+    "SubGame": "Duos",
+    "Description": "Ready, aim, fire! Sniper weapons only. No reviving - get downed and it's back to the lobby. ",
+    "PlaylistName": "Playlist_Snipers_Duos"
+  },
+  {
+    "DisplayName": "Sneaky Silencers",
+    "SubGame": "Squads",
+    "Description": "Shhhhh be very very quiet!",
+    "PlaylistName": "Playlist_Sneaky_Squads"
+  },
+  {
+    "DisplayName": "Sneaky Silencers",
+    "SubGame": "Solo",
+    "Description": "Shhhhh be very very quiet!",
+    "PlaylistName": "Playlist_Sneaky_Solo"
+  },
+  {
+    "DisplayName": "Sneaky Silencers",
+    "SubGame": "Duos",
+    "Description": "Shhhhh be very very quiet!",
+    "PlaylistName": "Playlist_Sneaky_Duos"
+  },
+  {
+    "DisplayName": "Slide",
+    "SubGame": "Duos",
+    "Description": "Ice blocks on everyone's feet, infinite ammo Grapplers in everyone's inventory - a recipe for a slippery good time!",
+    "PlaylistName": "Playlist_Slide_Duos"
+  },
+  {
+    "DisplayName": "Slide",
+    "SubGame": "Solo",
+    "Description": "Ice blocks on everyone's feet, infinite ammo Grapplers in everyone's inventory - a recipe for a slippery good time!",
+    "PlaylistName": "Playlist_Slide_Solo"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Trios",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownTournament_Trios"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Squads",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownTournament_Squads"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Solo",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownTournament_Solo"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Trios",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownTesting_Trios"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Squads",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownTesting_Squads"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Solo",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownTesting_Solo"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Trios",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Showdown_Trios"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Squads",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Showdown_Squads"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Solo",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Showdown_Solo"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Duos",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Showdown_Duos"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Trios",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_ShowdownAlt_Trios"
+  },
+  {
+    "DisplayName": "Arena",
+    "SubGame": "Solo",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn Hype by either achieving high placements or eliminating opponents.  As you gain Hype, you'll compete against tougher opponents with similar skill level.",
+    "PlaylistName": "Playlist_ShowdownAlt_Solo"
+  },
+  {
+    "DisplayName": "Arena",
+    "SubGame": "Duos",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn Hype by either achieving high placements or eliminating opponents.  As you gain Hype, you'll compete against tougher opponents with similar skill level.",
+    "PlaylistName": "Playlist_ShowdownAlt_Duos"
+  },
+  {
+    "DisplayName": "Close Encounters",
+    "SubGame": "Squads",
+    "Description": "Close Quarters Combat with Shotguns & Jetpacks! To use a jetpack, double-tap the jump button to take off. Keep the button held down to apply thrust. Make sure to land before it runs out of fuel!",
+    "PlaylistName": "Playlist_Close_Squad"
+  },
+  {
+    "DisplayName": "Close Encounters",
+    "SubGame": "Solo",
+    "Description": "Close Quarters Combat with Shotguns & Jetpacks! To use a jetpack, double-tap the jump button to take off. Keep the button held down to apply thrust. Make sure to land before it runs out of fuel!",
+    "PlaylistName": "Playlist_Close_Solo"
+  },
+  {
+    "DisplayName": "Close Encounters",
+    "SubGame": "Duos",
+    "Description": "Close Quarters Combat with Shotguns & Jetpacks! To use a jetpack, double-tap the jump button to take off. Keep the button held down to apply thrust. Make sure to land before it runs out of fuel!",
+    "PlaylistName": "Playlist_Close_Duos"
+  },
+  {
+    "DisplayName": "Solo Rumble",
+    "SubGame": "Solo",
+    "Description": "Fight for the Victory Royale in an action-packed mode where the first player to get the target number of eliminations wins! \r\n\r\nRespawn on elimination is ON for the entire match. Glider items with 50 charges will automatically be added to everyone's inventory. ",
+    "PlaylistName": "Playlist_Respawn_Solo"
+  },
+  {
+    "DisplayName": "Duo Rumble",
+    "SubGame": "Duos",
+    "Description": "Fight for the Victory Royale in an action-packed mode where the first duo to get the target number of eliminations wins! Respawn on elimination is ON for the entire match. Glider items with 50 charges will automatically be added to everyone's inventory. ",
+    "PlaylistName": "Playlist_Respawn_Duos"
+  },
+  {
+    "DisplayName": "Team Rumble",
+    "SubGame": "Squads",
+    "Description": "Two large teams fight for the Victory Royale in an action-packed mode where the first team to get the target number of eliminations wins! \r\n\r\nRespawn on elimination is ON for the entire match. Glider items with 50 charges will automatically be added to everyone's inventory. ",
+    "PlaylistName": "Playlist_Respawn"
+  },
+  {
+    "DisplayName": "Team Rumble: Siphon",
+    "SubGame": "Squads",
+    "Description": "Two large teams fight for the Victory Royale in an action-packed mode where the first team to get the target number of eliminations wins! Eliminating a player grants 50 health/shields.",
+    "PlaylistName": "Playlist_Respawn_20_Sif"
+  },
+  {
+    "DisplayName": "Team Rumble: Lava",
+    "SubGame": "Squads",
+    "Description": "Two large teams fight for the Victory Royale in an action-packed mode where the first team to get the target number of eliminations wins! \r\n\r\nDangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!",
+    "PlaylistName": "Playlist_Respawn_20_Lava"
+  },
+  {
+    "DisplayName": "Purple Reign",
+    "SubGame": "Solo",
+    "Description": "All weapon drops are Epic. Storm circles move a bit more quickly. Building material farming rates are increased. ",
+    "PlaylistName": "Playlist_Purple_Solo"
+  },
+  {
+    "DisplayName": "Purple Reign",
+    "SubGame": "Duos",
+    "Description": "All weapon drops are Epic. Storm circles move a bit more quickly. Building material farming rates are increased. ",
+    "PlaylistName": "Playlist_Purple_Duos"
+  },
+  {
+    "DisplayName": "Phoebe PvsB",
+    "SubGame": "Squads",
+    "Description": "All against Player Squads",
+    "PlaylistName": "Playlist_Phoebe_Squad_PvsB_Apollo"
+  },
+  {
+    "DisplayName": "Playground",
+    "SubGame": "Squads",
+    "Description": "Low-pressure environment where friends can let their creativity run wild. Build massive structures. Practice with the weapons and items. Fight against your friends. Have fun!",
+    "PlaylistName": "Playlist_Playground"
+  },
+  {
+    "DisplayName": "Solo vs Phoebe",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_DefaultSolo_vs_Phoebe"
+  },
+  {
+    "DisplayName": "Phoebe PvsB",
+    "SubGame": "Duos",
+    "Description": "All against Player Duos",
+    "PlaylistName": "Playlist_Phoebe_Duo_PvsB_Apollo"
+  },
+  {
+    "DisplayName": "Duos vs Phoebe",
+    "SubGame": null,
+    "Description": "Pair up with a buddy and take everyone else down.",
+    "PlaylistName": "Playlist_DefaultDuo_vs_Phoebe"
+  },
+  {
+    "DisplayName": "Builder's Paradise",
+    "SubGame": "Solo",
+    "Description": "All player-built structures have drastically increased health, but a true builder doesn't break down walls, they edit through them! Neutral editing has been turned on to allow players to edit structures no matter which team placed them. And what kind of paradise would keep a builder short on supplies? Building material drop rates are increased to allow as much building as desired!",
+    "PlaylistName": "Playlist_Paradise_Solo"
+  },
+  {
+    "DisplayName": "Builder's Paradise",
+    "SubGame": "Duos",
+    "Description": "All player-built structures have drastically increased health, but a true builder doesn't break down walls, they edit through them! Neutral editing has been turned on to allow players to edit structures no matter which team placed them. And what kind of paradise would keep a builder short on supplies? Building material drop rates are increased to allow as much building as desired!",
+    "PlaylistName": "Playlist_Paradise_Duos"
+  },
+  {
+    "DisplayName": "NFL Rumble",
+    "SubGame": "Squads",
+    "Description": "Represent one of the two teams from the Big Game by fighting for the Victory Royale in an action-packed mode where the first team to get 100 eliminations wins!",
+    "PlaylistName": "Playlist_Omaha"
+  },
+  {
+    "DisplayName": "The End",
+    "SubGame": null,
+    "Description": null,
+    "PlaylistName": "Playlist_Music_Low"
+  },
+  {
+    "DisplayName": "The End",
+    "SubGame": null,
+    "Description": null,
+    "PlaylistName": "Playlist_Music_Higher"
+  },
+  {
+    "DisplayName": "The End",
+    "SubGame": null,
+    "Description": null,
+    "PlaylistName": "Playlist_Music_Highest"
+  },
+  {
+    "DisplayName": "Love Shot",
+    "SubGame": "Squads",
+    "Description": "Low Gravity. Every player has 50 health. Cupid's Crossbow is the only weapon, Bandages are the only healing item. Jump high and spread the love!",
+    "PlaylistName": "Playlist_Love_Squads"
+  },
+  {
+    "DisplayName": "Horde Rush",
+    "SubGame": "Squads",
+    "Description": "Fortnite Fiends are back on the island and angrier than ever! Fight alongside your teammates to rack up your score by finding hidden score multipliers, opening special loot chests, and eliminating as many monsters as you can. Traverse across the map, survive all of the Defend locations and take down the Final Boss to win!\r\n\r\nCan you make it all the way to the end and set a new high score? Ready up and find out!",
+    "PlaylistName": "Playlist_Mash_Squads"
+  },
+  {
+    "DisplayName": "Love Shot",
+    "SubGame": "Solo",
+    "Description": "Low Gravity. Every player has 50 health. Cupid's Crossbow is the only weapon, Bandages are the only healing item. Jump high and spread the love!",
+    "PlaylistName": "Playlist_Love_Solo"
+  },
+  {
+    "DisplayName": "Love Shot",
+    "SubGame": "Duos",
+    "Description": "Low Gravity. Every player has 50 health. Cupid's Crossbow is the only weapon, Bandages are the only healing item. Jump high and spread the love!",
+    "PlaylistName": "Playlist_Love_Duos"
+  },
+  {
+    "DisplayName": "One Shot",
+    "SubGame": "Squads",
+    "Description": "Low Gravity. Every player has 50 health. Sniper weapons are the only weapon, Bandages are the only healing item. Jump high and aim well!",
+    "PlaylistName": "Playlist_Low_Squads"
+  },
+  {
+    "DisplayName": "One Shot",
+    "SubGame": "Duos",
+    "Description": "Low Gravity. Every player has 50 health. Sniper weapons are the only weapon, Bandages are the only healing item. Jump high and aim well!",
+    "PlaylistName": "Playlist_Low_Duos"
+  },
+  {
+    "DisplayName": "The End",
+    "SubGame": null,
+    "Description": null,
+    "PlaylistName": "Playlist_Music_High"
+  },
+  {
+    "DisplayName": "Fortlite",
+    "SubGame": "Squads",
+    "Description": null,
+    "PlaylistName": "Playlist_Lite_Squad"
+  },
+  {
+    "DisplayName": "Fortlite",
+    "SubGame": "Duos",
+    "Description": null,
+    "PlaylistName": "Playlist_Lite_Duos"
+  },
+  {
+    "DisplayName": "High Explosives",
+    "SubGame": "Squads",
+    "Description": "Battle Royale with Explosive weapons only! 'Splode all of the enemies back to the lobby to earn the Victory Royale!",
+    "PlaylistName": "Playlist_HighExplosives_Squads"
+  },
+  {
+    "DisplayName": "High Explosives",
+    "SubGame": "Duos",
+    "Description": "Battle Royale with Explosive weapons only! 'Splode all of the enemies back to the lobby to earn the Victory Royale!",
+    "PlaylistName": "Playlist_HighExplosives_Duos"
+  },
+  {
+    "DisplayName": "Fly Explosives",
+    "SubGame": "Squads",
+    "Description": "This mode combines the explosive fun of the High Explosives LTM and the vaulted Limited Time Item Jetpack. Take to the skies and blast everyone else back to the lobby!",
+    "PlaylistName": "Playlist_FlyExplosives_Squads"
+  },
+  {
+    "DisplayName": "Fly Explosives",
+    "SubGame": "Duos",
+    "Description": "This mode combines the explosive fun of the High Explosives LTM and the vaulted Limited Time Item Jetpack. Take to the skies and blast everyone else back to the lobby!",
+    "PlaylistName": "Playlist_FlyExplosives_Duos"
+  },
+  {
+    "DisplayName": "Heavy Metal",
+    "SubGame": "Squads",
+    "Description": "In this mode, only the \"Heavy\" weapon variants can be found in loot boxes. Get your loadout and get in the fight!",
+    "PlaylistName": "Playlist_Heavy_Squads"
+  },
+  {
+    "DisplayName": "Heavy Metal",
+    "SubGame": "Duos",
+    "Description": "In this mode, only the \"Heavy\" weapon variants can be found in loot boxes. Get your loadout and get in the fight!",
+    "PlaylistName": "Playlist_Heavy_Duos"
+  },
+  {
+    "DisplayName": "Barebones",
+    "SubGame": "Squads",
+    "Description": "This mode has the map, compass, storm timer and many other elements of the Heads Up Display turned off. Determining who is friendly and who isn't during firefights and staying away from the storm will be key to picking up a Victory Royale!",
+    "PlaylistName": "Playlist_Hard_Squads"
+  },
+  {
+    "DisplayName": "Barebones",
+    "SubGame": "Solo",
+    "Description": "This mode has the map, compass, storm timer and many other elements of the Heads Up Display turned off. Determining who is friendly and who isn't during firefights and staying away from the storm will be key to picking up a Victory Royale!",
+    "PlaylistName": "Playlist_Hard_Solo"
+  },
+  {
+    "DisplayName": "Ground Game",
+    "SubGame": "Squads",
+    "Description": "In Ground Game, the focus is on fighting smart - Spray & Pray and Build Spamming isn't an option here. Fewer building materials can be carried and max ammo count is limited, so use the natural cover that the map provides and make every shot count!",
+    "PlaylistName": "Playlist_Ground_Squads"
+  },
+  {
+    "DisplayName": "Ground Game",
+    "SubGame": "Solo",
+    "Description": "In Ground Game, the focus is on fighting smart - Spray & Pray and Build Spamming isn't an option here. Fewer building materials can be carried and max ammo count is limited, so use the natural cover that the map provides and make every shot count!",
+    "PlaylistName": "Playlist_Ground_Solo"
+  },
+  {
+    "DisplayName": "Ground Game",
+    "SubGame": "Duos",
+    "Description": "In Ground Game, the focus is on fighting smart - Spray & Pray and Build Spamming isn't an option here. Fewer building materials can be carried and max ammo count is limited, so use the natural cover that the map provides and make every shot count!",
+    "PlaylistName": "Playlist_Ground_Duos"
+  },
+  {
+    "DisplayName": "Arsenal",
+    "SubGame": "Solo",
+    "Description": "All players start with the same powerful weapon. Eliminating a player grants a weapon of slightly lesser power.  The first to make it through every weapon, from best to worst, earns the Victory Royale!",
+    "PlaylistName": "Playlist_Gungame_Reverse"
+  },
+  {
+    "DisplayName": "Solo",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Ox_Fortnite_B_Solo"
+  },
+  {
+    "DisplayName": "Duos",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Ox_Fortnite_B_Duos"
+  },
+  {
+    "DisplayName": "Squads",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Fortnite_B_Squads"
+  },
+  {
+    "DisplayName": "Solo",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Fortnite_B_Solo_G"
+  },
+  {
+    "DisplayName": "Duos",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Fortnite_B_Duos_G"
+  },
+  {
+    "DisplayName": "Duos",
+    "SubGame": null,
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Fortnite_B_Duos"
+  },
+  {
+    "DisplayName": "Final Five",
+    "SubGame": "Solo",
+    "Description": "Survive until the end to earn a Victory Royale!",
+    "PlaylistName": "Playlist_Fortnite"
+  },
+  {
+    "DisplayName": "Final Fight",
+    "SubGame": "5 Teams of 20",
+    "Description": "Final Fight is Battle Royale with an alternate ending! Instead of the storm circles closing all the way in, they will stop part way through the match, triggering a Final Countdown. The team with the most players alive at the end of the Countdown wins the Victory Royale! ",
+    "PlaylistName": "Playlist_Final"
+  },
+  {
+    "DisplayName": "Floor Is Lava",
+    "SubGame": "Squads",
+    "Description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!",
+    "PlaylistName": "Playlist_Fill_Squads"
+  },
+  {
+    "DisplayName": "Final Fight",
+    "SubGame": "8 Teams of 12",
+    "Description": "Final Fight is Battle Royale with an alternate ending! Instead of the storm circles closing all the way in, they will stop part way through the match, triggering a Final Countdown. The team with the most players alive at the end of the Countdown wins the Victory Royale! ",
+    "PlaylistName": "Playlist_Final"
+  },
+  {
+    "DisplayName": "Floor Is Lava",
+    "SubGame": "Solo",
+    "Description": "Dangerous lava rises gradually from the lowest parts of the map. Quickly loot, gather materials, and then start building up to stay away from the lava!",
+    "PlaylistName": "Playlist_Fill_Solo"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Squads",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Deimos_Squad_WinterShow"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Squads",
+    "Description": "Group up and outlast all of the other squads gunning for victory.",
+    "PlaylistName": "Playlist_Deimos_Squad_Winter"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Squads",
+    "Description": "Group up and outlast all of the other squads gunning for victory.",
+    "PlaylistName": "Playlist_Deimos_Squad_WinterCN"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Solo",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Deimos_Solo_WinterShow"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Squads",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Deimos_SquadShow"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Solo",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Deimos_SoloShow"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Solo",
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Deimos_Solo_Winter"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Duos",
+    "Description": "Pair up with a buddy and take everyone else down.",
+    "PlaylistName": "Playlist_Deimos_Duo_WinterCN"
+  },
+  {
+    "DisplayName": "Ice Storm",
+    "SubGame": "Duos",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Deimos_Duo_WinterShow"
+  },
+  {
+    "DisplayName": "Team Terror",
+    "SubGame": "Squads",
+    "Description": "Monsters have invaded the Battle Royale island! Two teams will battle it out as Cube Monsters join the fight. Defeat the other team to earn a Victory Royale.",
+    "PlaylistName": "Playlist_Deimos"
+  },
+  {
+    "DisplayName": "Tournament",
+    "SubGame": "Duos",
+    "Description": "Prove your skill in this competitive mode!  During each match, you'll earn points by either achieving high placements or eliminating multiple opponents.  As you gain points, you'll compete against tougher opponents with similar scores.",
+    "PlaylistName": "Playlist_Deimos_DuoShow"
+  },
+  {
+    "DisplayName": "Zone Wars: Vortex",
+    "SubGame": null,
+    "Description": "Code zeroyahero\r\nVortex Zone Wars by Zeroyahero\r\n\r\nA simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nThis island puts a unique twist on the Zone Wars game with mountainous terrain to traverse. The elevation change from zone to zone can be quite drastic!\r\n\r\nCreated by Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_V"
+  },
+  {
+    "DisplayName": "The Combine",
+    "SubGame": "Solo",
+    "Description": "Sharpen your skills by eliminating targets and rise to the top of the leaderboards in this timed solo course.",
+    "PlaylistName": "Playlist_Crucible_Solo"
+  },
+  {
+    "DisplayName": "Zone Wars",
+    "SubGame": null,
+    "Description": "A simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nAll maps created by:\r\nArena - Jesgran\r\nDesert - JotaPeGame\r\nDownhill Rivers - Enigma\r\nVortex - Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_Random"
+  },
+  {
+    "DisplayName": "Zone Wars: Desert",
+    "SubGame": null,
+    "Description": "Code jotapegame\r\nDesert Zone Wars 4.1\r\n\r\nA simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nMake your way through a small desert town to the final circle. A diverse set of weapons and mobility allows for unique gameplay and lots of replayability.\r\n\r\nCreated by JotaPeGame.\r\n",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_D"
+  },
+  {
+    "DisplayName": "Zone Wars: Colosseum",
+    "SubGame": null,
+    "Description": "Code jesgran\r\nZone Wars - Arena\r\n\r\nA simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory items make each round unique.\r\n\r\nBecome the ultimate gladiator in this Colosseum style island. An open style island demands quick building.\r\n\r\nCreated by Jesgran.",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_A"
+  },
+  {
+    "DisplayName": "Downtown Drop",
+    "SubGame": null,
+    "Description": "Greatness is forever.\r\n\r\n \r\n\r\nTake it downtown and let your skills do the talking. Show off your moves in the Brooklyn inspired, Downtown Drop LTM by Jordan Brand featuring Creative artists NotNellaf & Tollmolia. Launch off massive jumps, grind down city streets and collect coins to win!\r\n\r\n \r\n\r\nProve you deserve the title of G.O.A.T.",
+    "PlaylistName": "Playlist_Creative_Vigilante"
+  },
+  {
+    "DisplayName": "Creative Team Battle v2",
+    "SubGame": null,
+    "Description": "Play community created team battles.",
+    "PlaylistName": "Playlist_Creative_TDM_v2"
+  },
+  {
+    "DisplayName": "World Run",
+    "SubGame": null,
+    "Description": "Created by Game Jam Hollywood Creators for the Fortnite World Cup Creative Finals.\r\n\r\nPlayers race to complete the course. The first team to collect 30 coins wins!\r\n\r\nDip, dodge and duck through treacherous traps, lava pits and more to become the world's fastest lane runner.",
+    "PlaylistName": "Playlist_Creative_Squad_Battle_8_B"
+  },
+  {
+    "DisplayName": "World Run",
+    "SubGame": null,
+    "Description": "Created by Game Jam Hollywood Creators for the Fortnite World Cup Creative Finals.\r\n\r\nPlayers race to complete the course. The first team to collect 30 coins wins!\r\n\r\nDip, dodge and duck through treacherous traps, lava pits and more to become the world's fastest lane runner.",
+    "PlaylistName": "Playlist_Creative_Squad_Battle_32_B"
+  },
+  {
+    "DisplayName": "Sky Station Showdown",
+    "SubGame": null,
+    "Description": "Created by Team Evolve for Fortnite Block Party and played in the Fortnite Creative World Cup\r\n\r\nBattle the other squads to claim the most points from the capture zones!\r\nClimb to the top of the Fast Food towers while protecting your blade holder!\r\nUse impulse grenades and other power ups to blast other teams out of the capture zones!",
+    "PlaylistName": "Playlist_Creative_Squad_Battle_32_A"
+  },
+  {
+    "DisplayName": "Junkyard Juke",
+    "SubGame": null,
+    "Description": "Created by Hollywood Game Jam 2019 Creators for Fortnite Creative World Cup  \r\n\r\nBring junk to the incinerator to receive points for your team. \r\nThe bigger piece of junk, the more points.",
+    "PlaylistName": "Playlist_Creative_Squad_Battle_16_A"
+  },
+  {
+    "DisplayName": "Vertigo",
+    "SubGame": null,
+    "Description": "Created By DICO.\r\n\r\nShoot the floor out from underneath your opponents to bring them down a level. The very bottom level of the tower is filled with lava, avoid it at all costs!\r\n\r\nGet better loot as you descend down the tower.",
+    "PlaylistName": "Playlist_Creative_Splf"
+  },
+  {
+    "DisplayName": "Prop Hunt",
+    "SubGame": null,
+    "Description": "Created by Stray Kite\r\n\r\nHide and Seek with a twist!  Play 2 rounds, switching roles between rounds.  The team with the most points wins!\r\n\r\nThe Prop team must disguise themselves with the Prop-o-matic to avoid detection. Collect coins to score 1 point. Props make a sound every 15 seconds.\r\n\r\nThe Hunter team must use their wits and their weapons to find and eliminate the pesky props. Eliminations are worth 2 points.",
+    "PlaylistName": "Playlist_Creative_PuppyHugs"
+  },
+  {
+    "DisplayName": "Playground",
+    "SubGame": null,
+    "Description": "Play on the Battle Royale island and community created islands.",
+    "PlaylistName": "Playlist_Creative_PlayOnly"
+  },
+  {
+    "DisplayName": "Playground",
+    "SubGame": null,
+    "Description": "Play on the Battle Royale island and community created islands.",
+    "PlaylistName": "Playlist_Creative_PlayOnly"
+  },
+  {
+    "DisplayName": "Creative Map 40",
+    "SubGame": null,
+    "Description": "Play community created map for 40 players.",
+    "PlaylistName": "Playlist_Creative_Map"
+  },
+  {
+    "DisplayName": "Creative Map 16",
+    "SubGame": null,
+    "Description": "Play community created map for 16 players.",
+    "PlaylistName": "Playlist_Creative_Map"
+  },
+  {
+    "DisplayName": "Creative Team Battle",
+    "SubGame": null,
+    "Description": "Play community created team battles.",
+    "PlaylistName": "Playlist_Creative_LTM_v1"
+  },
+  {
+    "DisplayName": "Creative 4Player FFA 1",
+    "SubGame": null,
+    "Description": "Play creative 4Player free for all 1",
+    "PlaylistName": "Playlist_Creative_LTM_Squad_FFA"
+  },
+  {
+    "DisplayName": "Creative Squad 1",
+    "SubGame": null,
+    "Description": "Play creative squad 1",
+    "PlaylistName": "Playlist_Creative_LTM_Squad"
+  },
+  {
+    "DisplayName": "Creative Solo 2",
+    "SubGame": null,
+    "Description": "Play creative solo 2",
+    "PlaylistName": "Playlist_Creative_LTM_Solo"
+  },
+  {
+    "DisplayName": "Creative Solo 1",
+    "SubGame": null,
+    "Description": "Play creative solo 1",
+    "PlaylistName": "Playlist_Creative_LTM_Solo"
+  },
+  {
+    "DisplayName": "Creative 8 Squad Battle",
+    "SubGame": null,
+    "Description": "Play 8 squad battle.",
+    "PlaylistName": "Playlist_Creative_LTM_40_v1"
+  },
+  {
+    "DisplayName": "Creative 40 Player FFA",
+    "SubGame": null,
+    "Description": "Play creative 40 player FFA",
+    "PlaylistName": "Playlist_Creative_LTM_40_FFA"
+  },
+  {
+    "DisplayName": "Creative 16 Player 2v14",
+    "SubGame": null,
+    "Description": "Play creative 16 Player 2v14",
+    "PlaylistName": "Playlist_Creative_LTM_16_Coop"
+  },
+  {
+    "DisplayName": "Creative 16 Player 2v14",
+    "SubGame": null,
+    "Description": "Play creative 16 Player 2v14",
+    "PlaylistName": "Playlist_Creative_LTM_2v14"
+  },
+  {
+    "DisplayName": "Knock Town",
+    "SubGame": null,
+    "Description": "Created by AlanShinohara! Knock Town was a top 3 contender for the LTM Creator Contest.\r\n\r\nUse the grappler to jump around and dodge shots as you one-tap enemies in the air with the Flint-Knock Pistol. The player with the most eliminations at the end of the round wins!\r\n",
+    "PlaylistName": "Playlist_Creative_KaleTofu"
+  },
+  {
+    "DisplayName": "Echo Point",
+    "SubGame": null,
+    "Description": "Created by BluDrive and Tollmolia! Echo Point was a top 3 contender for the LTM Creator Contest.\r\n\r\nDestroy each objective to advance. If the attacking team reaches the final objective before time runs out, they win! Watch out for secret passages, attackers can use them to sneak around the front line. \r\n\r\nEach objective is marked with a red arrow.",
+    "PlaylistName": "Playlist_Creative_EpicPanda"
+  },
+  {
+    "DisplayName": "Beach Assault",
+    "SubGame": null,
+    "Description": "Created by Prudiz\r\n\r\nThe war is almost over. Storm the beach defenses and destroy the doomsday cannon, or stage a last-ditch defense to keep the invaders at bay.\r\n\r\nAttackers: Assault the beach, destroy the sentries and reach the forward checkpoint then assault the objective. Look for extra ways into the compound.\r\n\r\nDefenders: Get to the wall and help your sentries repel the invaders. Fall back when you must and try to protect the objective for 15 minutes.",
+    "PlaylistName": "Playlist_Creative_BeachAssault"
+  },
+  {
+    "DisplayName": "Classic",
+    "SubGame": "Squads",
+    "Description": "Classic Battle Royale gameplay with a limited set of weapons and items including a few that have been returned from the vault!",
+    "PlaylistName": "Playlist_Classic_Squads"
+  },
+  {
+    "DisplayName": "Classic",
+    "SubGame": "Solo",
+    "Description": "Classic Battle Royale gameplay with a limited set of weapons and items including a few that have been returned from the vault!",
+    "PlaylistName": "Playlist_Classic_Solo"
+  },
+  {
+    "DisplayName": "Classic",
+    "SubGame": "Duos",
+    "Description": "Classic Battle Royale gameplay with a limited set of weapons and items including a few that have been returned from the vault!",
+    "PlaylistName": "Playlist_Classic_Duos"
+  },
+  {
+    "DisplayName": "Chameleon",
+    "SubGame": "Solo",
+    "Description": "Last man standing rules, but players have the ability to turn into different props around the map",
+    "PlaylistName": "Playlist_ChaCha"
+  },
+  {
+    "DisplayName": "Use With Care",
+    "SubGame": "Duos",
+    "Description": "Players are granted building materials at the start of the match without the ability to gain more throughout the match. Make what you are given at the start last because that's all you get!",
+    "PlaylistName": "Playlist_Care_Duos"
+  },
+  {
+    "DisplayName": "Use With Care",
+    "SubGame": "Solo",
+    "Description": "Players are granted building materials at the start of the match without the ability to gain more throughout the match. Make what you are given at the start last because that's all you get!",
+    "PlaylistName": "Playlist_Care_Solo"
+  },
+  {
+    "DisplayName": "The Blues",
+    "SubGame": "Solo",
+    "Description": "All weapon drops are Rare. Storm circles move a bit more quickly. Building material farming rates are increased. ",
+    "PlaylistName": "Playlist_Blue_Solo"
+  },
+  {
+    "DisplayName": "The Blues",
+    "SubGame": "Squads",
+    "Description": "All weapon drops are Rare. Storm circles move a bit more quickly. Building material farming rates are increased. ",
+    "PlaylistName": "Playlist_Blue_Squads"
+  },
+  {
+    "DisplayName": "Blitz!",
+    "SubGame": "Squads",
+    "Description": "Blitz is a faster-paced version of Battle Royale. The match begins with the storm moving towards the island, and the delay between each circle is shorter than normal, creating matches that are 15 minutes long or less. The map also has extra loot and resources. Profile Stats count in this mode, so fight hard for the Victory Royale!",
+    "PlaylistName": "Playlist_Blitz_Squad"
+  },
+  {
+    "DisplayName": "Blitz!",
+    "SubGame": "Solo",
+    "Description": "Blitz is a faster-paced version of Battle Royale. The match begins with the storm moving towards the island, and the delay between each circle is shorter than normal, creating matches that are 15 minutes long or less. The map also has extra loot and resources. Profile Stats count in this mode, so fight hard for the Victory Royale!",
+    "PlaylistName": "Playlist_Blitz_Solo"
+  },
+  {
+    "DisplayName": "The Getaway",
+    "SubGame": "Solo",
+    "Description": "In this mode, players will race to find a Jewel and then escape in one of the getaway vans! The first four players to escape win the Victory Royale!",
+    "PlaylistName": "Playlist_Bling_Solo"
+  },
+  {
+    "DisplayName": "The Getaway",
+    "SubGame": "Squads",
+    "Description": "In this mode, players will race to find a Jewel and then escape in one of the getaway vans! The first four squads to escape win the Victory Royale!",
+    "PlaylistName": "Playlist_Bling_Squads"
+  },
+  {
+    "DisplayName": "The Getaway",
+    "SubGame": "Duos",
+    "Description": "In this mode, players will race to find a Jewel and then escape in one of the getaway vans! The first four duos to escape win the Victory Royale!",
+    "PlaylistName": "Playlist_Bling_Duos"
+  },
+  {
+    "DisplayName": "Blitz!",
+    "SubGame": "Duos",
+    "Description": "Blitz is a faster-paced version of Battle Royale. The match begins with the storm moving towards the island, and the delay between each circle is shorter than normal, creating matches that are 15 minutes long or less. The map also has extra loot and resources. Profile Stats count in this mode, so fight hard for the Victory Royale!",
+    "PlaylistName": "Playlist_Blitz_Duos"
+  },
+  {
+    "DisplayName": "Infinite Blades",
+    "SubGame": "Solo",
+    "Description": null,
+    "PlaylistName": "Playlist_Blades_Solo"
+  },
+  {
+    "DisplayName": "Infinite Blades",
+    "SubGame": "Duos",
+    "Description": null,
+    "PlaylistName": "Playlist_Blades_Duos"
+  },
+  {
+    "DisplayName": "Leave None Behind",
+    "SubGame": "Squads",
+    "Description": "All players have a slurp effect granting health and shields over time as long as all members of their team are alive. \r\n\r\nIf players are knocked down but not out they become invulnerable to damage, but the heal over time effect that their teammates have will change to damage over time. Revive your teammates as fast as possible!",
+    "PlaylistName": "Playlist_Behind_Squads"
+  },
+  {
+    "DisplayName": "Leave None Behind",
+    "SubGame": "Duos",
+    "Description": "All players have a slurp effect granting health and shields over time as long as their teammate is alive & not downed. \r\n\r\nIf a player is knocked down they become invulnerable to damage, but the heal over time effect that their teammate has will change to damage over time. Revive your partner as fast as possible!",
+    "PlaylistName": "Playlist_Behind_Duos"
+  },
+  {
+    "DisplayName": "Headshots Only",
+    "SubGame": "Solo",
+    "Description": "Players can only deal damage with headshots, so take your time and line up your shots!",
+    "PlaylistName": "Playlist_Beagles_Solo"
+  },
+  {
+    "DisplayName": "Headshots Only",
+    "SubGame": "Squads",
+    "Description": "Players can only deal damage with headshots, so take your time and line up your shots!",
+    "PlaylistName": "Playlist_Beagles_Squads"
+  },
+  {
+    "DisplayName": "Headshots Only",
+    "SubGame": "Duos",
+    "Description": "Players can only deal damage with headshots, so take your time and line up your shots!",
+    "PlaylistName": "Playlist_Beagles_Duos"
+  },
+  {
+    "DisplayName": "Food Fight",
+    "SubGame": "Squads",
+    "Description": "Food Fight: Defend the Mascots, 16v16. The battle of Durrburger versus Pete's Pizza has begun. Two teams on either side of the map. A huge barrier down the middle. Build a fort to protect your restaurant mascot. When the Barrier lowers, destroy the enemy's mascot to win the match!",
+    "PlaylistName": "Playlist_Barrier"
+  },
+  {
+    "DisplayName": "Food Fight",
+    "SubGame": "Squads",
+    "Description": "Food Fight: Defend the Mascots, 12v12. The battle of Durrburger versus Pete's Pizza has begun. Two teams on either side of the map. A huge barrier down the middle. Build a fort to protect your restaurant mascot. When the Barrier lowers, destroy the enemy's mascot to win the match!",
+    "PlaylistName": "Playlist_Barrier"
+  },
+  {
+    "DisplayName": "Food Fight",
+    "SubGame": "Squads",
+    "Description": "Food Fight: Defend the Mascots, 24v24. The battle of Durrburger versus Pete's Pizza has begun. Two teams on either side of the map. A huge barrier down the middle. Build a fort to protect your restaurant mascot. When the Barrier lowers, destroy the enemy's mascot to win the match!",
+    "PlaylistName": "Playlist_Barrier"
+  },
+  {
+    "DisplayName": "Automatics",
+    "SubGame": "Squads",
+    "Description": "The only weapons in the game are the automatic firing ones. Spray and pray!",
+    "PlaylistName": "Playlist_Auto_Squads"
+  },
+  {
+    "DisplayName": "Automatics",
+    "SubGame": "Duos",
+    "Description": "The only weapons in the game are the automatic firing ones. Spray and pray!",
+    "PlaylistName": "Playlist_Auto_Duos"
+  },
+  {
+    "DisplayName": "Teams of 20",
+    "SubGame": "Squads",
+    "Description": "Five teams of twenty players fight to the finish! This mode has extra loot and resources and a storm that is more lethal than in the standard Battle Royale modes. Each team drops from their own Battle Bus. Get in and help your team to victory!",
+    "PlaylistName": "Playlist_5x20"
+  },
+  {
+    "DisplayName": "Soaring 50's",
+    "SubGame": "Squads",
+    "Description": "This mode is a twist on the traditional 50 vs. 50 mode, featuring an extra emphasis on mobility. Gliders can be re-deployed when falling from large heights. Additional Shockwave Grenades and Launch Pads will be spawned throughout the map. Jump in and soar to new heights!",
+    "PlaylistName": "Playlist_Soaring_50s"
+  },
+  {
+    "DisplayName": "Driftin' 20's",
+    "SubGame": "Squads",
+    "Description": "Land near a Red Supply Drop, grab a Driftboard and some weapons, meet up with your team and race to eliminate the enemies. Last team standing wins!",
+    "PlaylistName": "Playlist_Hover"
+  },
+  {
+    "DisplayName": "Driftin'",
+    "SubGame": "Squads",
+    "Description": "Land near a Red Supply Drop, grab a Driftboard and some weapons, meet up with your team and race to eliminate the enemies. Last team standing wins!",
+    "PlaylistName": "Playlist_Hover"
+  },
+  {
+    "DisplayName": "Disco Domination",
+    "SubGame": "Squads",
+    "Description": "It's time for the ultimate dance-off. Dance Floors have spawned around the Battle Royale island. Take them over by clearing out any enemies and then dancing to raise a disco ball up from the floor. The team that earns the most points by capturing and defending the dance floors will win the match!",
+    "PlaylistName": "Playlist_Disco_32_Alt"
+  },
+  {
+    "DisplayName": "Disco Domination",
+    "SubGame": "Squads",
+    "Description": "It's time for the ultimate dance-off. Dance Floors have spawned around the Battle Royale island. Take them over by clearing out any enemies and then dancing to raise a disco ball up from the floor. The team that earns the most points by capturing and defending the dance floors will win the match!",
+    "PlaylistName": "Playlist_Disco"
+  },
+  {
+    "DisplayName": "Teams of 33",
+    "SubGame": "Squads",
+    "Description": "Three teams of thirty-three players fight to the finish! This mode has extra loot and resources and a storm that is more dangerous than in the standard Battle Royale modes. Each team drops from their own Battle Bus. Get in and help your team to victory!",
+    "PlaylistName": "Playlist"
+  },
+  {
+    "DisplayName": "Squads",
+    "SubGame": null,
+    "Description": "Group up and outlast all of the other squads gunning for victory.",
+    "PlaylistName": "Playlist_DefaultSquad"
+  },
+  {
+    "DisplayName": "Squads",
+    "SubGame": null,
+    "Description": "Group up and outlast all of the other squads gunning for victory.",
+    "PlaylistName": "Playlist_Bots_DefaultSquad"
+  },
+  {
+    "DisplayName": "Duos",
+    "SubGame": null,
+    "Description": "Pair up with a buddy and take everyone else down.",
+    "PlaylistName": "Playlist_DefaultDuo"
+  },
+  {
+    "DisplayName": "Solo",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Bots_DefaultSolo"
+  },
+  {
+    "DisplayName": "Duos",
+    "SubGame": null,
+    "Description": "Pair up with a buddy and take everyone else down.",
+    "PlaylistName": "Playlist_Playtest_DefaultDuo"
+  },
+  {
+    "DisplayName": "Solo",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Playtest_DefaultSolo"
+  },
+  {
+    "DisplayName": "Squads",
+    "SubGame": null,
+    "Description": "Group up and outlast all of the other squads gunning for victory.",
+    "PlaylistName": "Playlist_Playtest_DefaultSquad"
+  },
+  {
+    "DisplayName": "Zone Wars: Vortex",
+    "SubGame": null,
+    "Description": "Code zeroyahero\r\nVortex Zone Wars by Zeroyahero\r\n\r\nA simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nThis island puts a unique twist on the Zone Wars game with mountainous terrain to traverse. The elevation change from zone to zone can be quite drastic!\r\n\r\nCreated by Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_Duos"
+  },
+  {
+    "DisplayName": "Zone Wars",
+    "SubGame": null,
+    "Description": "A simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nAll maps created by:\r\nArena - Jesgran\r\nDesert - JotaPeGame\r\nDownhill Rivers - Enigma\r\nVortex - Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_Random2"
+  },
+  {
+    "DisplayName": "Zone Wars",
+    "SubGame": null,
+    "Description": "A simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nAll maps created by:\r\nArena - Jesgran\r\nDesert - JotaPeGame\r\nDownhill Rivers - Enigma\r\nVortex - Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_Random_Duos"
+  },
+  {
+    "DisplayName": "Zone Wars",
+    "SubGame": null,
+    "Description": "A simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nAll maps created by:\r\nArena - Jesgran\r\nDesert - JotaPeGame\r\nDownhill Rivers - Enigma\r\nVortex - Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_Random_Solos"
+  },
+  {
+    "DisplayName": "Zone Wars",
+    "SubGame": null,
+    "Description": "A simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nAll maps created by:\r\nArena - Jesgran\r\nDesert - JotaPeGame\r\nDownhill Rivers - Enigma\r\nVortex - Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_Random_squads"
+  },
+  {
+    "DisplayName": "Zone Wars",
+    "SubGame": null,
+    "Description": "A simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nAll maps created by:\r\nArena - Jesgran\r\nDesert - JotaPeGame\r\nDownhill Rivers - Enigma\r\nVortex - Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_Random_Trios"
+  },
+  {
+    "DisplayName": "Zone Wars: Vortex",
+    "SubGame": null,
+    "Description": "Code zeroyahero\r\nVortex Zone Wars by Zeroyahero\r\n\r\nA simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nThis island puts a unique twist on the Zone Wars game with mountainous terrain to traverse. The elevation change from zone to zone can be quite drastic!\r\n\r\nCreated by Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_solos"
+  },
+  {
+    "DisplayName": "Zone Wars: Vortex",
+    "SubGame": null,
+    "Description": "Code zeroyahero\r\nVortex Zone Wars by Zeroyahero\r\n\r\nA simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nThis island puts a unique twist on the Zone Wars game with mountainous terrain to traverse. The elevation change from zone to zone can be quite drastic!\r\n\r\nCreated by Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_squads"
+  },
+  {
+    "DisplayName": "Zone Wars: Vortex",
+    "SubGame": null,
+    "Description": "Code zeroyahero\r\nVortex Zone Wars by Zeroyahero\r\n\r\nA simulation of the end-game scenario in Battle Royale with a condensed moving zone. Eliminate the competition as you avoid the Storm closing in. Randomized spawns and inventory keeps each round unique.\r\n\r\nThis island puts a unique twist on the Zone Wars game with mountainous terrain to traverse. The elevation change from zone to zone can be quite drastic!\r\n\r\nCreated by Zeroyahero",
+    "PlaylistName": "Playlist_Creative_ZebraWallet_trios"
+  },
+  {
+    "DisplayName": "Apollo Solos",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Intro_Apollo_05H95B"
+  },
+  {
+    "DisplayName": "Apollo Solos",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Intro_Apollo_20H80B"
+  },
+  {
+    "DisplayName": "Apollo Solos",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Intro_Apollo_30H70B"
+  },
+  {
+    "DisplayName": "Apollo Solos",
+    "SubGame": null,
+    "Description": "Go it alone in a battle to be the last one standing.",
+    "PlaylistName": "Playlist_Intro_Apollo_40H60B"
+  }
+]
